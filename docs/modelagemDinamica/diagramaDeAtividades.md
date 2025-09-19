@@ -8,7 +8,7 @@ O Diagrama de Atividades é uma ferramenta da UML (Unified Modeling Language) ut
 
 Segundo Sommerville¹, os diagramas de atividade são eficazes para modelar o fluxo de controle entre diferentes operações, detalhando a sequência de ações e as condições que as governam. Eles são semelhantes a fluxogramas, mas com notações mais ricas para suportar concorrência e sincronização.
 
-Neste artefato, utilizamos a notação do **Mermaid** para criar os diagramas, que permite a geração de gráficos a partir de texto de forma simples e legível.
+Neste artefato, utilizamos a notação do **draw.io** para criar os diagramas.
 
 ---
 
@@ -46,7 +46,7 @@ Este diagrama (Figura 2) modela o fluxo de atividades que um usuário percorre a
 
 <p align="center"><b>Figura 2:</b> Diagrama de Atividades para o fluxo de "Realizar uma Lição".</p>
 
-![Diagrama de Atividades Geral](../modelagemDinamica/assets/PraticarDeConversa.png)
+![Diagrama de Atividades Geral](../modelagemDinamica/assets/PraticaDeConversa.png)
 
 <p align="center"><b>Autores:</b> <a href="https://github.com/FelipeFreire-gf">Felipe das Neves</a> e <a href="https://github.com/gabriel-lima258">Gabriel Lima</a>  </p>
 
