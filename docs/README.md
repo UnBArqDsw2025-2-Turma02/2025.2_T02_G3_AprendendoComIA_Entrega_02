@@ -2,7 +2,7 @@
 
 **Código da Disciplina**: FGA0208<br>
 **Número do Grupo**: 03<br>
-**Entrega**: 01<br>
+**Entrega**: 02<br>
 
 ## Alunos
 
@@ -46,6 +46,8 @@
           <br /><sub><b>Mateus Bastos</b></sub>
         </a><br />
       </td>
+    </tr>
+    <tr>
       <td align="center">
         <a href="https://github.com/pfc15">
           <img style="border-radius: 20%; border: 3px solid #13ebf8;" src="https://avatars.githubusercontent.com/u/52254091?v=4" width="160px" alt="Imagem de perfil"/>
@@ -64,6 +66,17 @@
           <br /><sub><b>Vitor Bessa</b></sub>
         </a><br />
       </td>
+      <td align="center">
+        <a href="https://github.com/luizh-gsoares">
+          <img style="border-radius: 20%; border: 3px solid #ff00ff;" src="https://avatars.githubusercontent.com/u/99836497?v=4" width="160px" alt="Imagem de perfil"/>
+          <br /><sub><b>Luiz Henrique Soares</b></sub>
+        </a><br />
+      </td>
+      <td align="center">
+        <a href="https://github.com/leticiamonteiroo">
+          <img style="border-radius: 20%; border: 3px solid #00ffff;" src="https://avatars.githubusercontent.com/u/152661076?v=4" width="160px" alt="Imagem de perfil"/>
+          <br /><sub><b>Letícia Monteiro</b></sub>
+        </a><br />
     </tr>
   </table>
   <p>Autor: <a href="https://github.com/FelipeFreire-gf">Felipe das Neves</a>.</p>

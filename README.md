@@ -21,9 +21,6 @@
 | <img src="https://avatars.githubusercontent.com/u/106821260?v=4" height="70"> | 21/1062473 | [Samuel Afonso da Silva Santos](https://github.com/SamuelAfonso) |
 | <img src="https://avatars.githubusercontent.com/u/118318004?v=4" height="70"> | 18/0132466 | [Vitor Bessa](https://github.com/Bessazs) |
 
-
-
- 
 ## Sobre
 
 O aprendizado de inglês é uma das habilidades mais valorizadas globalmente, tanto no contexto acadêmico quanto profissional. De acordo com o relatório da [EF English Proficiency Index (2023)](https://www.ef.com.br/epi/), o Brasil ocupa a 58ª posição entre 113 países avaliados, sendo classificado com **nível baixo de proficiência**. Esse dado reforça a necessidade de soluções inovadoras que promovam maior engajamento e eficácia no processo de aprendizagem.  
