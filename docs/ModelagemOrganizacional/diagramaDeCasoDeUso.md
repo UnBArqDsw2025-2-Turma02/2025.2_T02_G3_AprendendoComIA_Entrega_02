@@ -26,12 +26,6 @@ A força da técnica reside na sua especificação textual detalhada, que vai mu
 * **Fluxos Alternativos:** Sequências de passos secundárias e legítimas que também permitem que o ator atinja seu objetivo, mas por um caminho diferente. Ex: em um e-commerce, o fluxo principal é pagar com cartão de crédito, enquanto um fluxo alternativo seria "Pagar com boleto bancário".
 * **Fluxos de Exceção:** Sequências que descrevem o que acontece quando algo dá errado e o objetivo do ator não pode ser alcançado. Ex: "O sistema de pagamento recusa a transação; o sistema informa o erro ao usuário e oferece a opção de tentar novamente com outro cartão".
 
-Como bem destaca Alistair Cockburn, uma das maiores autoridades no assunto, a clareza é mais importante que o formalismo excessivo:
-
-> "Casos de uso casuais e legíveis ainda são úteis, enquanto casos de uso ilegíveis não serão lidos. [...] Relaxe, escreva algo legível e você já terá prestado um serviço à sua organização."
->
-> — Alistair Cockburn, "Escrevendo Casos de Uso Eficazes"
-
 Essa abordagem estruturada transforma requisitos abstratos em um roteiro claro para designers, desenvolvedores e testadores, minimizando ambiguidades e desalinhamentos.
 
 ## Objetivos 
@@ -46,15 +40,6 @@ Os principais objetivos da utilização da técnica de casos de uso vão além d
 3.  **Gerenciar a Complexidade e Priorizar o Escopo:** Em sistemas grandes, a quantidade de requisitos pode ser esmagadora. Casos de uso permitem decompor o sistema em partes gerenciáveis. É possível priorizar os casos de uso mais críticos para o negócio e planejar entregas incrementais. Ivar Jacobson reforça esta ideia:
 
 
-## Casos de Uso vs. Histórias de Usuário
-
-
-* **Histórias de Usuário:** São curtas, informais e focadas no *porquê*. Seguem o formato "Como um `<ator>`, eu quero `<ação>` para que `<benefício>`". Elas são excelentes para planejamento de sprints e para iniciar conversas.
-* **Casos de Uso:** São mais detalhados, estruturados e focados no *como* (a interação passo a passo). Eles são ideais para detalhar histórias de usuário complexas, que envolvem múltiplos passos, regras de negócio e interações com outros sistemas.
-
-Eles não são excludentes. Uma equipe pode começar com uma história de usuário e, ao perceber sua complexidade, "expandi-la" para um caso de uso completo para garantir que todos os detalhes e cenários alternativos sejam cobertos antes da implementação.
-
-Em suma, a modelagem com casos de uso, conforme contextualizada em corpos de conhecimento como o **SWEBOK** da IEEE e ensinada em obras canônicas como a de **Ian Sommerville**, continua a ser uma das ferramentas mais eficazes para garantir que o produto final seja, acima de tudo, útil e valioso para quem realmente importa: o usuário.
 
 ---
 

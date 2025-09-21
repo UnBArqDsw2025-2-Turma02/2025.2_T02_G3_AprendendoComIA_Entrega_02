@@ -1,6 +1,13 @@
 # Diagrama de Comunicação
 
----
+
+Um Diagrama de Comunicação é um dos diagramas de interação da UML (Unified Modeling Language) usado para representar como os objetos ou partes de um sistema trocam mensagens entre si durante a execução de um processo.O diagrama de comunicação enfatiza as relações estruturais entre os objetos e o fluxo de mensagens que percorrem essas ligações.
+
+ 
+
+![Diagrama de Comunicação](../assets/Comunicação.xml.txt.drawio.png)
+
+
 
 ## Sumário
 - [Técnica Utilizada](#técnica-utilizada)
@@ -41,5 +48,5 @@
 
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | Incremento do Revisor |
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: | :-------------------: |
-| `1.0`  | Modelagem inicial | [Felipe das Neves](https://github.com/FelipeFreire-gf) | 12/09/2025 |  | |  |
+| `1.0`  | Modelagem inicial | [Felipe das Neves](https://github.com/FelipeFreire-gf) | 12/09/2025 | [Letícia Monteiro](https://github.com/LeticiaMonteiroo) | 21/09/2025 | Texto sobre o Diagrama e sua adição  |
 
