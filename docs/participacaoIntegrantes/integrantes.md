@@ -1,10 +1,10 @@
-# Registro de Contribuições dos Integrantes
+# Registro de Contribuições dos Integrantes 
 
-Este documento tem como objetivo registrar as principais contribuições de cada membro da equipe ao longo do desenvolvimento do projeto.
+Este documento tem como objetivo registrar as principais contribuições de cada membro da equipe ao longo do desenvolvimento do projeto. 
 
----
+--- 
 
-# Participações Base
+# Participações Base 
 
 ## Modelagem Estática (Foco_1)
 
