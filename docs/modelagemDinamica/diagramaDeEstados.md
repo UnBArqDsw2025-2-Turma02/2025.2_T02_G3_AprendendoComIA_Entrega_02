@@ -50,4 +50,4 @@ O objetivo deste diagrama é fornecer uma visão **clara e integrada do comporta
 
 | Versão | Descrição                                                        | Autor(es)                                              | Data de Produção | Revisor(es) | Data de Revisão | Incremento do Revisor |
 | :----: | ---------------------------------------------------------------- | ------------------------------------------------------ | :--------------: | ----------- | :-------------: | :-------------------: |
-|  `1.0` | Modelagem inicial e inserção das informações realizadas na daily | [Leonardo de Melo Lima](https://github.com/leozinlima), [Mateus Bastos](https://github.com/MateuSansete) |    21/09/2025    |             |                 |                       |
+|  `1.0` | Modelagem inicial | [Leonardo de Melo Lima](https://github.com/leozinlima), [Mateus Bastos](https://github.com/MateuSansete) |    21/09/2025    |             |                 |                       |
