@@ -16,7 +16,7 @@ Ele mostra os **estados possíveis** de um objeto e as **transições** entre el
 
 Segundo Sommerville¹, os diagramas de estados permitem:  
 
-> “descrever como os sistemas reagem a eventos externos e internos, modelando o ciclo de vida de objetos e subsistemas”.  
+> “Descrever como os sistemas reagem a eventos externos e internos, modelando o ciclo de vida de objetos e subsistemas”.  
 
 ### Etapas seguidas
 1. Análise dos requisitos funcionais e não funcionais levantados.  
