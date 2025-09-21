@@ -1,55 +1,97 @@
-# Registro de Contribuições dos Integrantes
+# Registro de Contribuições dos Integrantes 
 
-Este documento tem como objetivo registrar as principais contribuições de cada membro da equipe ao longo do desenvolvimento do projeto.
+Este documento tem como objetivo registrar as principais contribuições de cada membro da equipe ao longo do desenvolvimento do projeto. 
 
----
+--- 
 
-# Participações – Segunda Entrega
+# Participações Base 
 
-## Modelagem Estática
+## Modelagem Estática (Foco_1)
 
-| Artefato | Integrantes |
-|----------|-------------|
-| **2.1. Diagrama de Classes** | Leonardo de Melo, Arthur Carvalho Leite, Pedro Fonseca Cruz, Emivalto Da Costa |
-| **2.2. Diagrama de Componentes** | Felipe das Neves, Gabriel Lima, Mateus Bastos |
-| **2.3. Diagrama de Implantação** | Vitor Bessa, Samuel Afonso, Luiz Henrique Guimarães Soares, Letícia Monteiro |
-
----
-
-## Modelagem Dinâmica
-
-| Artefato | Integrantes |
-|----------|-------------|
-| **3.1. Diagrama de Sequência** | Arthur Carvalho Leite, Emivalto Da Costa |
-| **3.2. Diagrama de Atividades** | Felipe das Neves, Gabriel Lima |
-| **3.3. Diagrama de Comunicação/Colaboração** | Vitor Bessa, Samuel Afonso, Letícia Monteiro |
-| **3.4. Diagrama de Estados** | Pedro Fonseca Cruz, Mateus Bastos, Luiz Henrique Guimarães Soares, Leonardo de Melo |
-
----
-
-## Modelagem Organizacional
-
-| Artefato | Integrantes |
-|----------|-------------|
-| **4.1. Diagrama de Pacotes** | Felipe das Neves, Gabriel Lima, Pedro Fonseca Cruz, Emivalto Da Costa |
-| **4.2. Diagrama de Caso de Uso** | Leonardo de Melo, Arthur Carvalho Leite, Vitor Bessa, Samuel Afonso, Mateus Bastos, Luiz Henrique Guimarães Soares, Letícia Monteiro |
-
----
+| Nome do Membro | Contribuição | Significância da Contribuição para o Projeto | Comprobatórios Claros (com link) |
+|----------------|--------------|----------------------------------------------|-----------------------------------|
+| [Arthur Carvalho Leite](https://github.com/arthurlleite) | | | |
+| [Emivalto Da Costa](https://github.com/EmivaltoJrr)| | | |
+| [Felipe das Neves](https://github.com/FelipeFreire-gf) | Modelagem do Diagrama de Componentes | Excelente | [Diagrama de Componentes](modelagemEstatica/diagramaDeComponentes.md) |
+| [Gabriel Lima](https://github.com/gabriel-lima258) | Modelagem do Diagrama de Componentes | Excelente | [Diagrama de Componentes](modelagemEstatica/diagramaDeComponentes.md) |
+| [Leonardo de Melo Lima](https://github.com/leozinlima) | Modelagem do Diagrama de Componentes | Boa | [Diagrama de Componentes](modelagemEstatica/diagramaDeComponentes.md) |
+| [Mateus Bastos](https://github.com/MateuSansete)| Modelagem do Diagrama de Componentes | Excelente | [Diagrama de Componentes](modelagemEstatica/diagramaDeComponentes.md) |
+| [Pedro Fonseca Cruz](https://github.com/pfc15) | | | |
+| [Samuel Afonso](https://github.com/SamuelAfonso) | | | |
+| [Vitor Bessa](https://github.com/Bessazs) | | | |
 
 <div align="center"> 
-  <p>Autores: 
-    <a href="https://github.com/arthurlleite">Arthur Carvalho Leite</a>, 
-    <a href="https://github.com/FelipeFreire-gf">Felipe das Neves</a>, 
-    Emivalto Da Costa, 
-    Gabriel Lima, 
-    Leonardo de Melo, 
-    Mateus Bastos, 
-    Pedro Fonseca Cruz, 
-    <a href="https://github.com/SamuelAfonso">Samuel Afonso</a>, 
-    <a href="https://github.com/Bessazs">Vitor Bessa</a>, 
-    <a href="https://github.com/LeticiaMonteiroo">Letícia Monteiro</a>, 
-    Luiz Henrique Guimarães Soares
-  </p>
+<p>Autores:
+  <a href="https://github.com/arthurlleite">Arthur Carvalho Leite</a>,
+  <a href="https://github.com/EmivaltoJrr">Emivalto Da Costa</a>,
+  <a href="https://github.com/FelipeFreire-gf">Felipe das Neves</a>,
+  <a href="https://github.com/gabriel-lima258">Gabriel Lima</a>,
+  <a href="https://github.com/leozinlima">Leonardo de Melo Lima</a>,
+  <a href="https://github.com/MateuSansete">Mateus Bastos</a>,
+  <a href="https://github.com/pfc15">Pedro Fonseca Cruz</a>,
+  <a href="https://github.com/SamuelAfonso">Samuel Afonso</a>,
+  <a href="https://github.com/Bessazs">Vitor Bessa</a>
+</p>
+</div>
+
+---
+
+## Modelagem Dinâmica (Foco_2)
+
+| Nome do Membro | Contribuição | Significância da Contribuição para o Projeto | Comprobatórios Claros (com link) |
+|----------------|--------------|----------------------------------------------|-----------------------------------|
+| [Arthur Carvalho Leite](https://github.com/arthurlleite) | | | |
+| [Emivalto Da Costa](https://github.com/EmivaltoJrr)| | | |
+| [Felipe das Neves](https://github.com/FelipeFreire-gf) | Modelagem do Diagrama de Atividades| Excelente | [Diagrama de Atividades](modelagemDinamica/diagramaDeAtividades.md) |
+| [Gabriel Lima](https://github.com/gabriel-lima258) | Modelagem do Diagrama de Atividades | Excelente | [Diagrama de Atividades](modelagemDinamica/diagramaDeAtividades.md) |
+| [Leonardo de Melo Lima](https://github.com/leozinlima) | | | |
+| [Mateus Bastos](https://github.com/MateuSansete)| | | |
+| [Pedro Fonseca Cruz](https://github.com/pfc15) | | | |
+| [Samuel Afonso](https://github.com/SamuelAfonso) | | | |
+| [Vitor Bessa](https://github.com/Bessazs) | | | |
+
+<div align="center"> 
+<p>Autores:
+  <a href="https://github.com/arthurlleite">Arthur Carvalho Leite</a>,
+  <a href="https://github.com/EmivaltoJrr">Emivalto Da Costa</a>,
+  <a href="https://github.com/FelipeFreire-gf">Felipe das Neves</a>,
+  <a href="https://github.com/gabriel-lima258">Gabriel Lima</a>,
+  <a href="https://github.com/leozinlima">Leonardo de Melo Lima</a>,
+  <a href="https://github.com/MateuSansete">Mateus Bastos</a>,
+  <a href="https://github.com/pfc15">Pedro Fonseca Cruz</a>,
+  <a href="https://github.com/SamuelAfonso">Samuel Afonso</a>,
+  <a href="https://github.com/Bessazs">Vitor Bessa</a>
+</p>
+</div>
+
+---
+
+## Modelagem Organizacional (Foco_3)
+
+| Nome do Membro | Contribuição | Significância da Contribuição para o Projeto | Comprobatórios Claros (com link) |
+|----------------|--------------|----------------------------------------------|-----------------------------------|
+| [Arthur Carvalho Leite](https://github.com/arthurlleite) | | | |
+| [Emivalto Da Costa](https://github.com/EmivaltoJrr)| | | |
+| [Felipe das Neves](https://github.com/FelipeFreire-gf) | Modelagem do Diagrama de Pacotes | Excelente | [Diagrama de Pacotes](ModelagemOrganizacional/diagramaDePacotes.md) |
+| [Gabriel Lima](https://github.com/gabriel-lima258) | Modelagem do Diagrama de Pacotes | Excelente | [Diagrama de Pacotes](ModelagemOrganizacional/diagramaDePacotes.md) |
+| [Leonardo de Melo Lima](https://github.com/leozinlima) | | | |
+| [Mateus Bastos](https://github.com/MateuSansete)| | |  |
+| [Pedro Fonseca Cruz](https://github.com/pfc15) | | |  |
+| [Samuel Afonso](https://github.com/SamuelAfonso) | | | |
+| [Vitor Bessa](https://github.com/Bessazs) | | | |
+
+<div align="center"> 
+<p>Autores:
+  <a href="https://github.com/arthurlleite">Arthur Carvalho Leite</a>,
+  <a href="https://github.com/EmivaltoJrr">Emivalto Da Costa</a>,
+  <a href="https://github.com/FelipeFreire-gf">Felipe das Neves</a>,
+  <a href="https://github.com/gabriel-lima258">Gabriel Lima</a>,
+  <a href="https://github.com/leozinlima">Leonardo de Melo Lima</a>,
+  <a href="https://github.com/MateuSansete">Mateus Bastos</a>,
+  <a href="https://github.com/pfc15">Pedro Fonseca Cruz</a>,
+  <a href="https://github.com/SamuelAfonso">Samuel Afonso</a>,
+  <a href="https://github.com/Bessazs">Vitor Bessa</a>
+</p>
 </div>
 
 ---
@@ -58,4 +100,5 @@ Este documento tem como objetivo registrar as principais contribuições de cada
 
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | Incremento do Revisor |
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: | :-------------------: |
-| `1.0` | Modelagem inicial e inserção das informações | [Letícia Monteiro](https://github.com/LeticiaMonteiroo) | 21/09/2025 | | | |
+| `1.0` | Modelagem inicial do documento. | [Felipe das Neves](https://github.com/FelipeFreire-gf) | 12/09/2025 | | | |
+| `1.1` | Incersão das contribuições da equipe: componentes, atividades e pacotes | [Felipe das Neves](https://github.com/FelipeFreire-gf) | 21/09/2025 | | | |
