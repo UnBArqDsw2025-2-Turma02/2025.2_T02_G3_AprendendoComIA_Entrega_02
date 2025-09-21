@@ -124,7 +124,7 @@ Este diagrama (Figura 6) modela como um usuário navega pela plataforma para enc
 # Legenda – Diagrama de Atividades
 
 <p align="center">
-    <img src="../modelagemDinamica/assets/atividadesLegenda.png" alt="Legenda do Diagrama de Atividades">
+    <img src="https://raw.githubusercontent.com/UnBArqDsw2025-2-Turma02/2025.2_T02_G3_AprendendoComIA_Entrega_02/refs/heads/main/docs/modelagemDinamica/assets/atividadesLegenda.png" alt="Legenda do Diagrama de Atividades">
 </p>
 
 <p align="center"><b>Autor:</b> <a href="https://github.com/FelipeFreire-gf">Felipe das Neves</a> e <a href="https://github.com/gabriel-lima258">Gabriel Lima</a></a> </p>
