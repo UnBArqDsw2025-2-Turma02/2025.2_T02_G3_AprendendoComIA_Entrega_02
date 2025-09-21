@@ -18,6 +18,10 @@ Para a construção do diagrama proposto foram utilizados dados referentes as [h
 
 ---
 
+![Diagrama de Comunicação](../modelagemDinamica/assets/Comunicacao.png)
+
+
+
 ## Objetivos
 
 A elicitação do diagrama visa entender como objetos colaboram, identifica os objetos envolvidos e as interfaces que eles exigem, servindo como uma ferramenta de projeto para economizar tempo e evitar erros.
@@ -46,4 +50,5 @@ A elicitação do diagrama visa entender como objetos colaboram, identifica os o
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | Incremento do Revisor |
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: | :-------------------: |
 | `1.0`  | Modelagem inicial | [Felipe das Neves](https://github.com/FelipeFreire-gf) | 12/09/2025 | [Samuel Afonso da Silva Santos](https://github.com/SamuelAfonso) | 21/09/2025| Descrição de Técnica Utilizada e Objetivos, Revisão do Diagrama |
+| `1.1`  | Adição do Diagrama | [Letícia Monteiro](https://github.com/LeticiaMonteiroo) | 21/09/2025 | | |  |
 
