@@ -14,7 +14,7 @@ Este documento tem como objetivo registrar as principais contribuições de cada
 | [Emivalto Da Costa](https://github.com/EmivaltoJrr)| | | |
 | [Felipe das Neves](https://github.com/FelipeFreire-gf) | Modelagem do Diagrama de Componentes | Excelente | [Diagrama de Componentes](modelagemEstatica/diagramaDeComponentes.md) |
 | [Gabriel Lima](https://github.com/gabriel-lima258) | Modelagem do Diagrama de Componentes | Excelente | [Diagrama de Componentes](modelagemEstatica/diagramaDeComponentes.md) |
-| [Leonardo de Melo Lima](https://github.com/leozinlima) | | | |
+| [Leonardo de Melo Lima](https://github.com/leozinlima) | Modelagem do Diagrama de Componentes | Boa | [Diagrama de Componentes](modelagemEstatica/diagramaDeComponentes.md) |
 | [Mateus Bastos](https://github.com/MateuSansete)| Modelagem do Diagrama de Componentes | Excelente | [Diagrama de Componentes](modelagemEstatica/diagramaDeComponentes.md) |
 | [Pedro Fonseca Cruz](https://github.com/pfc15) | | | |
 | [Samuel Afonso](https://github.com/SamuelAfonso) | | | |
@@ -71,12 +71,12 @@ Este documento tem como objetivo registrar as principais contribuições de cada
 | Nome do Membro | Contribuição | Significância da Contribuição para o Projeto | Comprobatórios Claros (com link) |
 |----------------|--------------|----------------------------------------------|-----------------------------------|
 | [Arthur Carvalho Leite](https://github.com/arthurlleite) | | | |
-| [Emivalto Da Costa](https://github.com/EmivaltoJrr)| Modelagem do Diagrama de Pacotes | Boa | |
+| [Emivalto Da Costa](https://github.com/EmivaltoJrr)| | | |
 | [Felipe das Neves](https://github.com/FelipeFreire-gf) | Modelagem do Diagrama de Pacotes | Excelente | [Diagrama de Pacotes](ModelagemOrganizacional/diagramaDePacotes.md) |
 | [Gabriel Lima](https://github.com/gabriel-lima258) | Modelagem do Diagrama de Pacotes | Excelente | [Diagrama de Pacotes](ModelagemOrganizacional/diagramaDePacotes.md) |
 | [Leonardo de Melo Lima](https://github.com/leozinlima) | | | |
 | [Mateus Bastos](https://github.com/MateuSansete)| | |  |
-| [Pedro Fonseca Cruz](https://github.com/pfc15) | Modelagem do Diagrama de Pacotes | Boa | [Diagrama de Pacotes](ModelagemOrganizacional/diagramaDePacotes.md) |
+| [Pedro Fonseca Cruz](https://github.com/pfc15) | | |  |
 | [Samuel Afonso](https://github.com/SamuelAfonso) | | | |
 | [Vitor Bessa](https://github.com/Bessazs) | | | |
 

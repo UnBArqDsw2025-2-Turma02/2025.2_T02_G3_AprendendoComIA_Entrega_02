@@ -1,39 +1,38 @@
 # Iniciativas Extras
 
 ---
-
 ## Sumário
-- [Técnica Utilizada](#técnica-utilizada)
-- [Objetivos](#objetivos)
-- [Bibliografia](#bibliografia)
+- [Introdução](#introdução)
+- [Cronograma Planejado](#cronograma-planejado)
 - [Histórico de Versões](#histórico-de-versões)
 
 ---
 
-## Técnica Utilizada
+## Introdução
 
-
-
----
-
-## Objetivos
-
+Este documento detalha as iniciativas extras realizadas pela equipe para aprimorar a organização e o planejamento do projeto. A principal iniciativa aqui registrada é o cronograma de atividades para a Entrega 02, que visa distribuir as tarefas de modelagem UML entre os membros da equipe.
 
 ---
 
-## Bibliografia
+## Cronograma Planejado
 
-- [Duolingo – Wikipedia](https://en.wikipedia.org/wiki/Duolingo)  
-- [Babbel – Site Oficial](https://www.babbel.com/)  
-- [ELSA Speak – Site Oficial](https://elsaspeak.com/en/)  
-- [Language in India – Comparative Study](https://www.languageinindia.com/oct2024/drsunandauseAIEnglishlearning1.pdf)  
-- [Sciedupress – Teaching with Apps](https://www.sciedupress.com/journal/index.php/jct/article/download/25589/16050)  
-- [Arxiv – Gamification Misuse](https://arxiv.org/abs/2203.16175)  
-- [SWEBOK – IEEE](https://www.computer.org/education/bodies-of-knowledge/software-engineering)  
-- [LGPD – Gov.br](https://www.gov.br/cidadania/pt-br/acesso-a-informacao/lgpd)  
-- [Sommerville – Engenharia de Software](https://www.pearson.com/en-us/subject-catalog/p/software-engineering/P200000003546/9780137035151)  
-- [Miro – Arquitetura G3](https://miro.com/)  
-- [Google Forms – Público Alvo](https://forms.gle/cB4qXso3j3tm2LVh6)
+A tabela a seguir (Tabela 1) apresenta a divisão de tarefas para a modelagem dos diagramas UML, distribuídas em três focos principais: Modelagem Estática, Dinâmica e Organizacional.
+
+<p align="center"><b>Tabela 1:</b> Cronograma de Atividades da Entrega 02.</p>
+
+| Foco | Atividade | Responsáveis |
+| :--- | :--- | :--- |
+| **Modelagem Estática** | Diagrama de Classes | Arthur Carvalho, Pedro Fonseca, Emivalto Da Costa |
+| | Diagrama de Componentes | Felipe das Neves, Gabriel Lima, Mateus Bastos, Leonardo de Melo |
+| | Diagrama de Implantação | Vitor Bessa, Samuel Afonso, Luiz Henrique, Letícia Monteiro |
+| **Modelagem Dinâmica** | Diagrama de Sequência | Arthur Carvalho, Emivalto Da Costa |
+| | Diagrama de Atividades | Felipe das Neves, Gabriel Lima |
+| | Diagrama de Comunicação/Colaboração | Vitor Bessa, Samuel Afonso, Letícia Monteiro |
+| | Diagrama de Estados | Pedro Fonseca, Mateus Bastos, Luiz Henrique, Leonardo de Melo |
+| **Modelagem Organizacional** | Diagrama de Pacotes | Felipe das Neves, Gabriel Lima, Pedro Fonseca, Emivalto Da Costa |
+| | Diagrama de Caso de Uso | Leonardo de Melo, Arthur Carvalho, Vitor Bessa, Samuel Afonso, Mateus Bastos, Luiz Henrique, Letícia Monteiro |
+
+<p align="center"><b>Autor:</b> <a href="https://github.com/FelipeFreire-gf">Felipe das Neves</a></p>
 
 ---
 
@@ -41,5 +40,6 @@
 
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | Incremento do Revisor |
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: | :-------------------: |
-| `1.0`  | Modelagem inicial | [Felipe das Neves](https://github.com/FelipeFreire-gf) | 12/09/2025 |  | |  |
+| `1.0` | Modelagem das iniciativas extras | Felipe das Neves | 12/09/2025 | | | |
+| `1.1` | Adição do cronograma planejado para a Entrega 02 | Felipe das Neves | 21/09/2025 | | | |
 
