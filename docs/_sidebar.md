@@ -28,7 +28,7 @@
   - [5. Participação](participacaoIntegrantes/integrantes.md)
 
 - **Iniciativas Extras**
-  - [6.1. -- ](iniciativasExtras/extras.md)
+  - [6.1. Organização da Equipe ](iniciativasExtras/extras.md)
 
   - **Atas**
   - [Ata 01](atas/ata1.md)
