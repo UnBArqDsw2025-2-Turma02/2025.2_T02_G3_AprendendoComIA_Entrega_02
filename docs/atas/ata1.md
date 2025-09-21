@@ -21,6 +21,8 @@
 - ✅ Pedro Fonseca Cruz
 - ✅ Samuel Afonso da Silva Santos
 - ✅ Vitor Bessa
+- ✅ Luiz Henrique Soares
+- ✅ Letícia Monteiro
 
 | Legenda | Presente | Ausente |
 | ---- | ------ | ------- |
