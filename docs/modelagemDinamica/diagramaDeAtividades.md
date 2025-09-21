@@ -121,6 +121,16 @@ Este diagrama (Figura 6) modela como um usuário navega pela plataforma para enc
 
 ---
 
+# Legenda – Diagrama de Atividades
+
+<p align="center">
+    <img src="../modelagemDinamica/assets/atividadesLegenda.png" alt="Legenda do Diagrama de Atividades">
+</p>
+
+<p align="center"><b>Autor:</b> <a href="https://github.com/FelipeFreire-gf">Felipe das Neves</a> e <a href="https://github.com/gabriel-lima258">Gabriel Lima</a></a> </p>
+
+---
+
 ## Bibliografia
 
 > 1. SOMMERVILLE, Ian. **Engenharia de Software**. 10. ed. São Paulo: Pearson Education do Brasil, 2019.
