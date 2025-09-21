@@ -96,14 +96,18 @@ Diversos aplicativos já exploram esse potencial. O [Duolingo](https://www.duoli
 Nesse contexto, o projeto **Aprendendo com IA** busca preencher essa lacuna, oferecendo uma plataforma que combina **gamificação**, **conteúdo adaptativo** e um **tutor de conversação inteligente**, tornando o aprendizado de inglês mais **personalizado, acessível e motivador**.
 
 
-## Screenshots da Primeira Entrega
-![Rich Picture completo do projeto AI Linguo](https://raw.githubusercontent.com/UnBArqDsw2025-2-Turma02/2025.2_T02_G3_AprendendoComIA_Entrega_01/refs/heads/main/docs/artefatosGeneralistas/assets/richPicture/richPicture.jpeg)
+## Screenshots da Segunda Entrega
 
-<center> Autor(a): <a href="https://github.com/leozinlima" target = "_blank">Leonardo de Melo</a>, <a href="https://github.com/FelipeFreire-gf" target = "_blank">Felipe das Neves</a></center>
+### Diagrama de Componentes
 
-![Mapa mental 4](../assets/mateus_mapa.png)
-<center> Autor(a): <a href="https://github.com/MateuSansete" target = "_blank">Mateus Bastos</a></center>
+![componentes](https://raw.githubusercontent.com/UnBArqDsw2025-2-Turma02/2025.2_T02_G3_AprendendoComIA_Entrega_02/refs/heads/main/docs/modelagemEstatica/assets/componentes.png)
 
+<center> Autor(a): <a href="https://github.com/leozinlima" target = "_blank">Gabriel Lima</a>, <a href="https://github.com/FelipeFreire-gf" target = "_blank">Felipe das Neves</a> e <a href="https://github.com/FelipeFreire-gf" target = "_blank">Mateus Bastos</a></center>
+
+### Diagrama de Atividades
+
+![atividades](https://raw.githubusercontent.com/UnBArqDsw2025-2-Turma02/2025.2_T02_G3_AprendendoComIA_Entrega_02/refs/heads/main/docs/modelagemDinamica/assets/geral.png)
+<center> Autor(a):  <a href="https://github.com/leozinlima" target = "_blank">Gabriel Lima</a> e <a href="https://github.com/FelipeFreire-gf" target = "_blank">Felipe das Neves</a></center>
 
 
 ## Há algo a ser executado?
@@ -111,6 +115,8 @@ Nesse contexto, o projeto **Aprendendo com IA** busca preencher essa lacuna, ofe
 (x) SIM
 
 () NÃO
+
+Obs.: O projeto está no mesmo repositório: https://github.com/UnBArqDsw2025-2-Turma02/2025.2_T02_G3_AprendendoComIA_DEV
 
 ### Opção 1: Acesso Rápido via Docker do nosso Software
 ```bash
