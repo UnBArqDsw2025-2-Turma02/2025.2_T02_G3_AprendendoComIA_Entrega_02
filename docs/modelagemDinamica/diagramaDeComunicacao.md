@@ -45,5 +45,5 @@ A elicitação do diagrama visa entender como objetos colaboram, identifica os o
 
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | Incremento do Revisor |
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: | :-------------------: |
-| `1.0`  | Modelagem inicial | [Felipe das Neves](https://github.com/FelipeFreire-gf) | 12/09/2025 | [Samuel Afonso da Silva Santos](https://github.com/SamuelAfonso) | 21/09/2025| Descrição de [Técnica Utilizada](#técnica-utilizada) e [Objetivos](#objetivos), Revisão do Diagrama |
+| `1.0`  | Modelagem inicial | [Felipe das Neves](https://github.com/FelipeFreire-gf) | 12/09/2025 | [Samuel Afonso da Silva Santos](https://github.com/SamuelAfonso) | 21/09/2025| Descrição de Técnica Utilizada e Objetivos, Revisão do Diagrama |
 
