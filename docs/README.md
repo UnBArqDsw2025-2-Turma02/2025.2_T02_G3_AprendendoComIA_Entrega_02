@@ -163,3 +163,4 @@ docsify serve ./docs
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: | :-------------: |
 | `1.0` | Modelagem inicial | [Felipe das Neves](https://github.com/FelipeFreire-gf) | 27/08/2025 | | | |
 | `1.1` | Modelagem da capa da home e inserção dos membros da equipe | [Felipe das Neves](https://github.com/FelipeFreire-gf) | 01/09/2025 | | | |
+| `1.2` | Desenvolvimento do Sobre e inserção dos prints do projeto | [Mateus Bastos](https://github.com/MateuSansete) e [Leonardo de Melo Lima](https://github.com/leozinlima)| 21/09/2025 | | | |

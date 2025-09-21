@@ -14,7 +14,7 @@ Este documento tem como objetivo registrar as principais contribuições de cada
 | [Emivalto Da Costa](https://github.com/EmivaltoJrr)| | | |
 | [Felipe das Neves](https://github.com/FelipeFreire-gf) | Modelagem do Diagrama de Componentes | Excelente | [Diagrama de Componentes](modelagemEstatica/diagramaDeComponentes.md) |
 | [Gabriel Lima](https://github.com/gabriel-lima258) | Modelagem do Diagrama de Componentes | Excelente | [Diagrama de Componentes](modelagemEstatica/diagramaDeComponentes.md) |
-| [Leonardo de Melo Lima](https://github.com/leozinlima) | Modelagem do Diagrama de Componentes | Boa | [Diagrama de Componentes](modelagemEstatica/diagramaDeComponentes.md) |
+| [Leonardo de Melo Lima](https://github.com/leozinlima) | Modelagem do Diagrama de Componentes | Excelente | [Diagrama de Componentes](modelagemEstatica/diagramaDeComponentes.md) |
 | [Mateus Bastos](https://github.com/MateuSansete)| Modelagem do Diagrama de Componentes | Excelente | [Diagrama de Componentes](modelagemEstatica/diagramaDeComponentes.md) |
 | [Pedro Fonseca Cruz](https://github.com/pfc15) | | | |
 | [Samuel Afonso](https://github.com/SamuelAfonso) | | | |

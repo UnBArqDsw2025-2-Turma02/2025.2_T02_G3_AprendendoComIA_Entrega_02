@@ -50,8 +50,23 @@ O objetivo deste diagrama é ilustrar a arquitetura de software do sistema "Apre
 
 ## 3. Diagrama de Componentes
 
+O diagrama a seguir (Figura 1) ilustra a organização dos principais módulos do sistema "Aprendendo com IA" e como eles se relacionam.
+
+<p align="center"><b>Figura 1:</b> Diagrama de Pacotes da aplicação.</p>
+
+![Diagrama de componentes](../modelagemEstatica/assets/componentes.png)
+
+<p align="center"><b>Autor:</b> <a href="https://github.com/FelipeFreire-gf">Felipe das Neves</a>, <a href="https://github.com/gabriel-lima258">Gabriel Lima</a>  e <a href="https://github.com/MateuSansete">Mateus Bastos</a> </p>
+
 ---
 
+### Legenda – Diagrama de Componentes
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/UnBArqDsw2025-2-Turma02/2025.2_T02_G3_AprendendoComIA_Entrega_02/refs/heads/main/docs/modelagemEstatica/assets/compoLegends.png" alt="Legenda do Diagrama de compoenntes">
+</p>
+
+<p align="center"><b>Autor:</b> <a href="https://github.com/FelipeFreire-gf">Felipe das Neves</a>, <a href="https://github.com/gabriel-lima258">Gabriel Lima</a>  e <a href="https://github.com/MateuSansete">Mateus Bastos</a> </p>
 
 ---
 
@@ -76,4 +91,4 @@ O objetivo deste diagrama é ilustrar a arquitetura de software do sistema "Apre
 | `1.0` | Modelagem inicial | [Felipe das Neves](https://github.com/FelipeFreire-gf) | 12/09/2025 | | | |
 | `1.1` | Correção da técnica utilizada e adição dos objetivos | [Felipe das Neves](https://github.com/FelipeFreire-gf) | 21/09/2025 | | | |
 | `1.2` | Adição da bibliografia | [Felipe das Neves](https://github.com/FelipeFreire-gf) | 21/09/2025 | | | |
-
+| `1.3` | Adição do diagrama de componentes | [Mateus Bastos](https://github.com/MateuSansete) | 21/09/2025 | | | |

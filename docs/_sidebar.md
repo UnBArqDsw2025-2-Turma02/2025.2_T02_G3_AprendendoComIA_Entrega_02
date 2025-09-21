@@ -1,6 +1,6 @@
 <!-- docs/_sidebar.md -->
 
-- [Home](../README.md)
+- [Home](README.md)
 
 - [Projeto](Projeto/Projeto.md)
 
