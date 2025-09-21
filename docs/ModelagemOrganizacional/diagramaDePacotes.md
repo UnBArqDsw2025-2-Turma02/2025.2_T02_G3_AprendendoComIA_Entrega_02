@@ -57,6 +57,16 @@ O diagrama a seguir (Figura 1) ilustra a organização dos principais módulos d
 
 ---
 
+# Legenda – Diagrama de Pacotes
+
+<p align="center">
+    <img src="../ModelagemOrganizacional/assets/pacotesLegenda.png" alt="Legenda do Diagrama de Pacotes">
+</p>
+
+<p align="center"><b>Autor:</b> <a href="https://github.com/FelipeFreire-gf">Felipe das Neves</a>, <a href="https://github.com/gabriel-lima258">Gabriel Lima</a>  e <a href="https://github.com/MateuSansete">Mateus Bastos</a> </p>
+
+---
+
 ## Bibliografia
 
 > 1. SOMMERVILLE, Ian. **Engenharia de Software**. 10. ed. São Paulo: Pearson Education do Brasil, 2019.
