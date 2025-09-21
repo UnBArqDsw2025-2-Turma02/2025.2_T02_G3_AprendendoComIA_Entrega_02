@@ -45,6 +45,11 @@ Nesse contexto, o projeto **Aprendendo com IA** busca preencher essa lacuna, ofe
 ![atividades](https://raw.githubusercontent.com/UnBArqDsw2025-2-Turma02/2025.2_T02_G3_AprendendoComIA_Entrega_02/refs/heads/main/docs/modelagemDinamica/assets/geral.png)
 <center> Autor(a):  <a href="https://github.com/leozinlima" target = "_blank">Gabriel Lima</a> e <a href="https://github.com/FelipeFreire-gf" target = "_blank">Felipe das Neves</a></center>
 
+### Diagrama de Pacotes
+
+![atividades](https://raw.githubusercontent.com/UnBArqDsw2025-2-Turma02/2025.2_T02_G3_AprendendoComIA_Entrega_02/refs/heads/main/docs/ModelagemOrganizacional/assets/pacotes.png)
+<center> Autor(a): <a href="https://github.com/leozinlima" target = "_blank">Gabriel Lima</a> e <a href="https://github.com/FelipeFreire-gf" target = "_blank">Felipe das Neves</a> </center>
+
 
 ## Há algo a ser executado?
 
