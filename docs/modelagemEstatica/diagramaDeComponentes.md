@@ -58,14 +58,14 @@ O objetivo deste diagrama é ilustrar a arquitetura de software do sistema "Apre
 ## Bibliografia
 
 > 1. SOMMERVILLE, Ian. **Engenharia de Software**. 10. ed. São Paulo: Pearson Education do Brasil, 2019.
-> 2. APOSTILA UML. Linguagem de Modelagem Unificada. Disponibilizado pela professora. Acesso em: 25 abr. 2025.
-> 3. UML DIAGRAMS. Component Diagrams Overview. Disponível em: https://www.uml-diagrams.org/component-diagrams.html. Acesso em: 25 abr. 2025.
-> 4. IBM CORPORATION. Component diagrams. IBM Documentation, 2023. Disponível em: https://www.ibm.com/docs/en/dmrt/9.5.0?topic=diagrams-component. Acesso em: 25 abr. 2025.
-> 5. LUCID SOFTWARE INC. UML Component Diagram. Lucidchart, 2024. Disponível em: https://www.lucidchart.com/pages/uml-component-diagram. Acesso em: 25 abr. 2025.
-> 6. VISUAL PARADIGM INTERNATIONAL. UML Component Diagram Guide. Visual Paradigm, 2024. Disponível em: https://www.visual-paradigm.com/guide/uml-unified-modeling-language/uml-component-diagram/. Acesso em: 25 abr. 2025.
-> 7. IBM CORPORATION. Diagrama de componentes. IBM Documentation. Disponível em: https://www.ibm.com/docs/pt-br/rsas/7.5.0?topic=services-component-diagrams. Acesso em: 27 abr. 2025.
-> 8. LUCID SOFTWARE INC. Diagrama de componentes UML. Lucidchart. Disponível em: https://www.lucidchart.com/pages/pt/diagrama-de-componentes-uml. Acesso em: 27 abr. 2025.
-> 9. CREATELY. Tutorial de Diagrama de Componentes UML. Disponível em: https://creately.com/blog/pt/diagrama/tutorial-de-diagrama-de-componentes-2/. Acesso em: 27 abr. 2025.
+> 2. APOSTILA UML. Linguagem de Modelagem Unificada. Disponibilizado pela professora. Acesso em: 21 setembro. 2025.
+> 3. UML DIAGRAMS. Component Diagrams Overview. Disponível em: https://www.uml-diagrams.org/component-diagrams.html. Acesso em: 21 setembro. 2025.
+> 4. IBM CORPORATION. Component diagrams. IBM Documentation, 2023. Disponível em: https://www.ibm.com/docs/en/dmrt/9.5.0?topic=diagrams-component. Acesso em: 21 setembro. 2025.
+> 5. LUCID SOFTWARE INC. UML Component Diagram. Lucidchart, 2024. Disponível em: https://www.lucidchart.com/pages/uml-component-diagram. Acesso em: 21 setembro. 2025.
+> 6. VISUAL PARADIGM INTERNATIONAL. UML Component Diagram Guide. Visual Paradigm, 2024. Disponível em: https://www.visual-paradigm.com/guide/uml-unified-modeling-language/uml-component-diagram/. Acesso em: 21 setembro. 2025.
+> 7. IBM CORPORATION. Diagrama de componentes. IBM Documentation. Disponível em: https://www.ibm.com/docs/pt-br/rsas/7.5.0?topic=services-component-diagrams. Acesso em: 21 setembro. 2025.
+> 8. LUCID SOFTWARE INC. Diagrama de componentes UML. Lucidchart. Disponível em: https://www.lucidchart.com/pages/pt/diagrama-de-componentes-uml. Acesso em: 21 setembro. 2025.
+> 9. CREATELY. Tutorial de Diagrama de Componentes UML. Disponível em: https://creately.com/blog/pt/diagrama/tutorial-de-diagrama-de-componentes-2/. Acesso em: 21 setembro. 2025.
 
 ---
 
