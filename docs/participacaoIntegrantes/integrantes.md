@@ -19,6 +19,8 @@ Este documento tem como objetivo registrar as principais contribuições de cada
 | [Pedro Fonseca Cruz](https://github.com/pfc15) | | | |
 | [Samuel Afonso](https://github.com/SamuelAfonso) | | | |
 | [Vitor Bessa](https://github.com/Bessazs) | | | |
+| [Luiz Henrique Soares ](https://github.com/luizh-gsoares) | | | |
+| [Letícia Monteiro ](https://github.com/leticiamonteiroo) | | | |
 
 <div align="center"> 
 <p>Autores:
@@ -49,6 +51,8 @@ Este documento tem como objetivo registrar as principais contribuições de cada
 | [Pedro Fonseca Cruz](https://github.com/pfc15) | | | |
 | [Samuel Afonso](https://github.com/SamuelAfonso) | | | |
 | [Vitor Bessa](https://github.com/Bessazs) | | | |
+| [Luiz Henrique Soares ](https://github.com/luizh-gsoares) | | | |
+| [Letícia Monteiro ](https://github.com/leticiamonteiroo) | | | |
 
 <div align="center"> 
 <p>Autores:
@@ -79,6 +83,8 @@ Este documento tem como objetivo registrar as principais contribuições de cada
 | [Pedro Fonseca Cruz](https://github.com/pfc15) | | |  |
 | [Samuel Afonso](https://github.com/SamuelAfonso) | | | |
 | [Vitor Bessa](https://github.com/Bessazs) | | | |
+| [Luiz Henrique Soares ](https://github.com/luizh-gsoares) | | | |
+| [Letícia Monteiro ](https://github.com/leticiamonteiroo) | | | |
 
 <div align="center"> 
 <p>Autores:
