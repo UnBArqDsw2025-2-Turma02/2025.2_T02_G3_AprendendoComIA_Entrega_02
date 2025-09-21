@@ -6,7 +6,7 @@ Um Diagrama de Comunicação é um dos diagramas de interação da UML (Unified 
  
 
 ![Diagrama de Comunicação](../assets/Comunicação.xml.txt.drawio.png)
-
+<font size="2"><p style="text-align: center">Fonte: [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Samuel Santos](https://github.com/SamuelAfons), [Luiz Soares](https://github.com/luizh-gsoares) 2025.</p></font>
 
 
 ## Sumário

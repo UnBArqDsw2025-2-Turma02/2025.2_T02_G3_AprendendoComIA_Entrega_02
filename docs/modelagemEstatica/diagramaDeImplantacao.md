@@ -25,7 +25,9 @@ Essa estrutura mostra que o grupo adotou boas práticas de arquitetura, como sep
 
 Ele serve também como guia para, planejamento de capacidade e escalabilidade, mostrando onde será necessário balanceamento de carga ou replicação, decisões de segurança, destacando pontos de comunicação que precisam de criptografia ou autenticação robusta, manutenção e evolução, facilitando a atualização de componentes sem afetar o restante da infraestrutura.
 
-![texto alternativo](caminho/para/imagem.png)
+![texto alternativo](../assets/Diagrama_Implantação.drawio.png)
+
+<font size="2"><p style="text-align: center">Fonte: [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Samuel Santos](https://github.com/SamuelAfons), [Luiz Soares](https://github.com/luizh-gsoares) 2025.</p></font>
 
 ## Técnica Utilizada
 
