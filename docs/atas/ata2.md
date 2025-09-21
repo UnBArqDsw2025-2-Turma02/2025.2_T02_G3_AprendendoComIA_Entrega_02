@@ -17,9 +17,9 @@
 - ✅ Felipe das Neves Freire
 - ✅ Gabriel Lima
 - ✅ Leonardo de Melo Lima
-- ❌ Mateus Bastos
-- ❌ Pedro Fonseca Cruz
-- ❌ Samuel Afonso da Silva Santos
+-  Mateus Bastos
+-  Pedro Fonseca Cruz
+-  Samuel Afonso da Silva Santos
 - ✅ Letícia da Silva Monteiro
 - ✅ Luiz Henrique Guimarães Soares  
 - ✅ Vitor Bessa
