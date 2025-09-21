@@ -32,6 +32,9 @@
 
   - **Atas**
   - [Ata 01](atas/ata1.md)
+  - [Ata 02](atas/ata2.md)
+  - [Ata 03](atas/ata3.md)
+  - [Ata 04](atas/ata4.md)
 
 
 
