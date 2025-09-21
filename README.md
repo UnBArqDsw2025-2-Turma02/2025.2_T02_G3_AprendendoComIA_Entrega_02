@@ -32,7 +32,7 @@ Diversos aplicativos já exploram esse potencial. O [Duolingo](https://www.duoli
 
 Nesse contexto, o projeto **Aprendendo com IA** busca preencher essa lacuna, oferecendo uma plataforma que combina **gamificação**, **conteúdo adaptativo** e um **tutor de conversação inteligente**, tornando o aprendizado de inglês mais **personalizado, acessível e motivador**.
 
-## Screenshots da Primeira Entrega
+## Screenshots da Segunda Entrega
 Adicione 2 ou mais screenshots em termos de artefatos realizados na entrega.
 
 ## Há algo a ser executado?
