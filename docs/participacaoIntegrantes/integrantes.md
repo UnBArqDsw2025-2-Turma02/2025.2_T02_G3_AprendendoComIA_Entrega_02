@@ -4,21 +4,37 @@ Este documento tem como objetivo registrar as principais contribuições de cada
 
 ---
 
-# Participações Base
+# Participações – Segunda Entrega
 
-## Módulo Design Sprint (Foco_1)
+## Modelagem Estática
 
-| Nome do Membro | Contribuição | Significância da Contribuição para o Projeto | Comprobatórios Claros (com link) |
-|----------------|--------------|----------------------------------------------|-----------------------------------|
-| [Arthur Carvalho Leite](https://github.com/arthurlleite) | | | |
-| Emivalto Da Costa | | | |
-| [Felipe das Neves](https://github.com/FelipeFreire-gf) | | | |
-| Gabriel Lima | | | |
-| Leonardo de Melo | | | |
-| Mateus Bastos | | | |
-| Pedro Fonseca Cruz | | | |
-| [Samuel Afonso](https://github.com/SamuelAfonso) | | | |
-| [Vitor Bessa](https://github.com/Bessazs) | | | |
+| Artefato | Integrantes |
+|----------|-------------|
+| **2.1. Diagrama de Classes** | Leonardo de Melo, Arthur Carvalho Leite, Pedro Fonseca Cruz, Emivalto Da Costa |
+| **2.2. Diagrama de Componentes** | Felipe das Neves, Gabriel Lima, Mateus Bastos |
+| **2.3. Diagrama de Implantação** | Vitor Bessa, Samuel Afonso, Luiz Henrique Guimarães Soares, Letícia Monteiro |
+
+---
+
+## Modelagem Dinâmica
+
+| Artefato | Integrantes |
+|----------|-------------|
+| **3.1. Diagrama de Sequência** | Arthur Carvalho Leite, Emivalto Da Costa |
+| **3.2. Diagrama de Atividades** | Felipe das Neves, Gabriel Lima |
+| **3.3. Diagrama de Comunicação/Colaboração** | Vitor Bessa, Samuel Afonso, Letícia Monteiro |
+| **3.4. Diagrama de Estados** | Pedro Fonseca Cruz, Mateus Bastos, Luiz Henrique Guimarães Soares, Leonardo de Melo |
+
+---
+
+## Modelagem Organizacional
+
+| Artefato | Integrantes |
+|----------|-------------|
+| **4.1. Diagrama de Pacotes** | Felipe das Neves, Gabriel Lima, Pedro Fonseca Cruz, Emivalto Da Costa |
+| **4.2. Diagrama de Caso de Uso** | Leonardo de Melo, Arthur Carvalho Leite, Vitor Bessa, Samuel Afonso, Mateus Bastos, Luiz Henrique Guimarães Soares, Letícia Monteiro |
+
+---
 
 <div align="center"> 
   <p>Autores: 
@@ -30,45 +46,9 @@ Este documento tem como objetivo registrar as principais contribuições de cada
     Mateus Bastos, 
     Pedro Fonseca Cruz, 
     <a href="https://github.com/SamuelAfonso">Samuel Afonso</a>, 
-    <a href="https://github.com/Bessazs">Vitor Bessa</a>
-  </p>
-</div>
-
----
-
-## Módulo Artefato Generalista (Foco_2)
-
-| Nome do Membro | Contribuição | Significância da Contribuição para o Projeto | Comprobatórios Claros (com link) |
-|----------------|--------------|----------------------------------------------|-----------------------------------|
-| [Arthur Carvalho Leite](https://github.com/arthurlleite) | | | |
-| [Felipe das Neves](https://github.com/FelipeFreire-gf) | | | |
-| [Leonardo de Melo](https://github.com/leozinlima) | | | |
-| [Vítor Bessa](https://github.com/bessazs) | | | |
-
-<div align="center"> 
-  <p>Autores: 
-    <a href="https://github.com/arthurlleite">Arthur Carvalho Leite</a>, 
-    <a href="https://github.com/FelipeFreire-gf">Felipe das Neves</a>, 
-    <a href="https://github.com/leozinlima">Leonardo de Melo</a>, 
-    <a href="https://github.com/Bessazs">Vítor Bessa</a>
-  </p>
-</div>
-
----
-
-## Módulo Modelagem BPMN (Foco_3)
-
-| Nome do Membro | Contribuição | Significância da Contribuição para o Projeto | Comprobatórios Claros (com link) |
-|----------------|--------------|----------------------------------------------|-----------------------------------|
-| [Arthur Carvalho Leite](https://github.com/arthurlleite) | | | |
-| [Felipe das Neves](https://github.com/FelipeFreire-gf) | | | |
-| [Leonardo de Melo](https://github.com/leozinlima) | | | |
-
-<div align="center"> 
-  <p>Autores: 
-    <a href="https://github.com/arthurlleite">Arthur Carvalho Leite</a>, 
-    <a href="https://github.com/FelipeFreire-gf">Felipe das Neves</a>, 
-    <a href="https://github.com/leozinlima">Leonardo de Melo</a>
+    <a href="https://github.com/Bessazs">Vitor Bessa</a>, 
+    <a href="https://github.com/LeticiaMonteiroo">Letícia Monteiro</a>, 
+    Luiz Henrique Guimarães Soares
   </p>
 </div>
 
@@ -78,4 +58,5 @@ Este documento tem como objetivo registrar as principais contribuições de cada
 
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | Incremento do Revisor |
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: | :-------------------: |
-| `1.0` | Modelagem inicial do documento. | [Felipe das Neves](https://github.com/FelipeFreire-gf) | 12/09/2025 | | | |
+| `1.0` | Modelagem inicial e inserção das informações | [Letícia Monteiro](https://github.com/LeticiaMonteiroo) | 21/09/2025 | | | |
+
