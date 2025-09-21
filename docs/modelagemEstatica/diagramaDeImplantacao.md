@@ -18,7 +18,8 @@ Segundo __Martin Fowler__, em seu livro __UML Essencial: Um Breve Guia para a Li
 Para a construção do diagrama proposto foram utilizados dados referentes aos [requisitos funcionais e não funcionais da Entrega 1](https://unbarqdsw2025-2-turma02.github.io/2025.2_T02_G3_AprendendoComIA_Entrega_01/#/iniciativasExtras/requisitosElicitados) para identificação e modelagem inicial dos nós e mapeamento das dependências de artefatos.
 
 ---
-![Diagrama de Pacotes](../modelagemEstatica/assets/Diagrama_Implantação.drawio.png)
+![Diagrama de Implementação](../modelagemEstatica/assets/Implamentação.png)
+
 
 <font size="2"><p style="text-align: center">Fonte: [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Samuel Santos](https://github.com/SamuelAfons), [Luiz Soares](https://github.com/luizh-gsoares) e [Vitor Bessa](https://github.com/Bessazs) 2025.</p></font>
 
