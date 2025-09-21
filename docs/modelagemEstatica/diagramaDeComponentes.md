@@ -48,18 +48,6 @@ O objetivo deste diagrama é ilustrar a arquitetura de software do sistema "Apre
 
 ---
 
-## Bibliografia
-
-## Sumário
-- [Técnica Utilizada](#técnica-utilizada)
-- [Objetivos](#objetivos)
-----
-- [Diagrama de Componentes](#3-diagrama-de-componentes)
-- [Bibliografia](#bibliografia)
-- [Histórico de Versões](#histórico-de-versões)
-
----
-
 ## 3. Diagrama de Componentes
 
 ---
