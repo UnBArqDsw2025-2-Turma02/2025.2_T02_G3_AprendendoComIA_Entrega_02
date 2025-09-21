@@ -27,16 +27,22 @@ A força da técnica reside na sua especificação textual detalhada, que vai mu
 
 Essa abordagem estruturada transforma requisitos vezes muito abstratos em um roteiro claro para designers, desenvolvedores e testadores, minimizando ambiguidades e desalinhamentos.
 
-![Diagrama de Casos de Uso](../assets/Casos%20de%20uso.drawio.png)
+![Diagrama de Casos de Uso](../ModelagemOrganizacional/assets/Casos1.png)
 
 <font size="2"><p style="text-align: center">Fonte: [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Luiz Soares](https://github.com/luizh-gsoares), [Leonardo Lima](https://github.com/leozinlima), [Samuel Santos](https://github.com/SamuelAfonso),  2025.</p></font>
 
-![Diagrama de Casos de Uso](../assets/Casos%20de%20uso2.drawio.png)
 
-<font size="2"><p style="text-align: center">Fonte: [Letícia Monteiro](https://github.com/LeticiaMonteiroo), 2025.</p></font>
 
+## Segunda Versão 
 
 Outra versão do mesmo documento de casos de uso mas agora usando o entendimento das linhas de uma maneira diferente.
+
+![Diagrama de Casos de Uso](../ModelagemOrganizacional/assets/Casos2.png)
+
+<font size="2"><p style="text-align: center">Fonte: [Letícia Monteiro](https://github.com/LeticiaMonteiroo), [Luiz Soares](https://github.com/luizh-gsoares), [Leonardo Lima](https://github.com/leozinlima), [Samuel Santos](https://github.com/SamuelAfonso),  2025.</p></font>
+
+
+
 
 ## Objetivos 
 
