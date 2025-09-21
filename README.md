@@ -2,8 +2,7 @@
 
 **Código da Disciplina**: FGA0208<br>
 **Número do Grupo**: 03<br>
-**Entrega**: 01<br>
-
+**Entrega**: 02<br>
 
 ## Alunos
 
@@ -12,7 +11,7 @@
 | <img src="https://avatars.githubusercontent.com/u/170873899?v=4" height="70"> | 22/2037595 | [Arthur Carvalho Leite](https://github.com/arthurlleite) |
 | <img src="https://avatars.githubusercontent.com/u/138714054?v=4" height="70"> | 18/0100271 | [Emivalto Da Costa Tavares Junior](https://github.com/EmivaltoJrr) |
 | <img src="https://avatars.githubusercontent.com/u/62055315?v=4" height="70"> | 20/2046102 | [Felipe das Neves Freire](https://github.com/FelipeFreire-gf) |
-| <img src="https://avatars.githubusercontent.com/u/116119327?v=4" height="70"> | 22/2037610 | [Gabriel Lima](https://github.com/leozinlima) |
+| <img src="https://avatars.githubusercontent.com/u/116119327?v=4" height="70"> | 22/2037610 | [Gabriel Lima](https://github.com/gabriel-lima258) |
 | <img src="https://avatars.githubusercontent.com/u/105813929?v=4" height="70"> | 22/2037700 | [Leonardo de Melo Lima](https://github.com/leozinlima) |
 | <img src="https://avatars.githubusercontent.com/u/99836497?v=4" height="70"> | 22/2022144 | [Luiz Henrique Soares ](https://github.com/luizh-gsoares) |
 | <img src="https://avatars.githubusercontent.com/u/152661076?v=4" height="70"> | 23/102685 |[Letícia Monteiro ](https://github.com/leticiamonteiroo) |
@@ -42,7 +41,29 @@ Adicione 2 ou mais screenshots em termos de artefatos realizados na entrega.
 
 ( ) NÃO
 
-Se SIM, insira um manual (ou um script) para auxiliar ainda mais os interessados na execução.
+### Opção 1: Acesso Rápido via Docker do nosso Software
+```bash
+# Baixar e rodar o projeto
+unzip ai-linguo.zip && cd ai-linguo
+cp .env.example .env
+docker-compose up --build
+
+# Acessar: http://localhost:3000
+```
+
+### Opção 2: Repositório GitHub
+```bash
+# Clonar o repositório
+git clone https://github.com/UnBArqDsw2025-2-Turma02/2025.2_T02_G3_AprendendoComIA_DEV
+cd ai-linguo
+
+# Configurar e rodar
+cp .env.example .env
+yarn install
+docker-compose up mongo -d
+yarn seed
+yarn dev
+```
 
 ## Informações Complementares 
 
@@ -63,3 +84,6 @@ Para iniciar o site localmente, utilize o comando::
 ```shell
 docsify serve ./docs
 ```
+
+
+
