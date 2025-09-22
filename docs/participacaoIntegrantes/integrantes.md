@@ -29,6 +29,8 @@ Este documento tem como objetivo registrar as principais contribuições de cada
   <a href="https://github.com/FelipeFreire-gf">Felipe das Neves</a>,
   <a href="https://github.com/gabriel-lima258">Gabriel Lima</a>,
   <a href="https://github.com/leozinlima">Leonardo de Melo Lima</a>,
+  <a href="https://github.com/LeticiaMonteiroo">Letícia Monteiro</a>,
+  <a href="https://github.com/luizh-gsoares"> Luiz Soares </a>,
   <a href="https://github.com/MateuSansete">Mateus Bastos</a>,
   <a href="https://github.com/pfc15">Pedro Fonseca Cruz</a>,
   <a href="https://github.com/SamuelAfonso">Samuel Afonso</a>,
@@ -61,6 +63,8 @@ Este documento tem como objetivo registrar as principais contribuições de cada
   <a href="https://github.com/FelipeFreire-gf">Felipe das Neves</a>,
   <a href="https://github.com/gabriel-lima258">Gabriel Lima</a>,
   <a href="https://github.com/leozinlima">Leonardo de Melo Lima</a>,
+  <a href="https://github.com/LeticiaMonteiroo">Letícia Monteiro</a>,
+  <a href="https://github.com/luizh-gsoares"> Luiz Soares </a>,
   <a href="https://github.com/MateuSansete">Mateus Bastos</a>,
   <a href="https://github.com/pfc15">Pedro Fonseca Cruz</a>,
   <a href="https://github.com/SamuelAfonso">Samuel Afonso</a>,
@@ -83,8 +87,8 @@ Este documento tem como objetivo registrar as principais contribuições de cada
 | [Pedro Fonseca Cruz](https://github.com/pfc15) | | |  |
 | [Samuel Afonso](https://github.com/SamuelAfonso) | Revisão do Diagrama de Caso de Uso| Excelente| [Diagrama de Caso de Uso](ModelagemOrganizacional/diagramaDeCasoDeUso.md)|
 | [Vitor Bessa](https://github.com/Bessazs) | | | |
-| [Luiz Henrique Soares ](https://github.com/luizh-gsoares) | | | |
-| [Letícia Monteiro ](https://github.com/leticiamonteiroo) | | | |
+| [Luiz Henrique Soares ](https://github.com/luizh-gsoares) | Modelagem do Diagrama de Casos de Uso | Excelente |[Casos de Uso](../ModelagemOrganizacional/diagramaDeCasoDeUso.md) |
+| [Letícia Monteiro ](https://github.com/leticiamonteiroo) | Modelagem do Diagrama de Casos de Uso | Excelente |[Casos de Uso](../ModelagemOrganizacional/diagramaDeCasoDeUso.md) |
 
 <div align="center"> 
 <p>Autores:
@@ -93,6 +97,8 @@ Este documento tem como objetivo registrar as principais contribuições de cada
   <a href="https://github.com/FelipeFreire-gf">Felipe das Neves</a>,
   <a href="https://github.com/gabriel-lima258">Gabriel Lima</a>,
   <a href="https://github.com/leozinlima">Leonardo de Melo Lima</a>,
+  <a href="https://github.com/LeticiaMonteiroo">Letícia Monteiro</a>,
+  <a href="https://github.com/luizh-gsoares"> Luiz Soares </a>,
   <a href="https://github.com/MateuSansete">Mateus Bastos</a>,
   <a href="https://github.com/pfc15">Pedro Fonseca Cruz</a>,
   <a href="https://github.com/SamuelAfonso">Samuel Afonso</a>,
@@ -108,3 +114,4 @@ Este documento tem como objetivo registrar as principais contribuições de cada
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: | :-------------------: |
 | `1.0` | Modelagem inicial do documento. | [Felipe das Neves](https://github.com/FelipeFreire-gf) | 12/09/2025 | | | |
 | `1.1` | Incersão das contribuições da equipe: componentes, atividades e pacotes | [Felipe das Neves](https://github.com/FelipeFreire-gf) | 21/09/2025 | | | |
+| `1.2` | Incersão das atividades realizadas | [Letícia Monteiro](https://github.com/LeticiaMonteiroo)  | 21/09/2025 | | | |
