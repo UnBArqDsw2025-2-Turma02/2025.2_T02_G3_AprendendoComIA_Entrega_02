@@ -74,7 +74,7 @@ A Figura 2 descreve o ciclo de vida da funcionalidade de Chat. O processo começ
 <p align="center"><b>Autor:</b> <a href="https://github.com/MateuSansete">Mateus Bastos</a>, <a href="https://github.com/leozinlima">Leonardo de Melo Lima</a> e <a href="https://github.com/luizh-gsoares">Luiz Henrique Soares</a> </p>
 
 
-## 3.3 Diagrama de Estados
+## 3.3 Diagrama de Estados Tarefas + Correção
 
 A Figura 3 detalha o processo de Tarefas + Correção. O fluxo começa no estado "Browsing", onde o usuário navega e seleciona uma tarefa. Ao abrir uma tarefa, o estado muda para "Editing". Quando a tarefa é enviada, o sistema entra no estado "Submitting" e, em seguida, "WaitingCorr" (aguardando a correção). Se a correção for bem-sucedida, o estado final é "Corrected". Caso ocorra um erro, o fluxo desvia para o estado "Error", de onde o usuário pode tentar novamente.
 
@@ -85,7 +85,7 @@ A Figura 3 detalha o processo de Tarefas + Correção. O fluxo começa no estado
 <p align="center"><b>Autor:</b> <a href="https://github.com/MateuSansete">Mateus Bastos</a>, <a href="https://github.com/leozinlima">Leonardo de Melo Lima</a> e <a href="https://github.com/luizh-gsoares">Luiz Henrique Soares</a> </p>
 
 
-## 3.4 Diagrama de Estados
+## 3.4 Diagrama de Estados Cards
 
 A Figura 4 mostra o processo de estudo com cartões. O fluxo inicia no estado "Loading", onde o sistema busca os cartões que precisam ser revisados. A partir daí, há duas possibilidades: se não houver cartões para revisão, o fluxo vai para o estado final "NoDue"; se a lista não estiver vazia, o sistema entra em "Reviewing", onde o usuário revisa os cartões até que todos os cartões do lote tenham sido avaliados, finalizando o processo.
 
@@ -96,7 +96,7 @@ A Figura 4 mostra o processo de estudo com cartões. O fluxo inicia no estado "L
 <p align="center"><b>Autor:</b> <a href="https://github.com/MateuSansete">Mateus Bastos</a>, <a href="https://github.com/leozinlima">Leonardo de Melo Lima</a> e <a href="https://github.com/luizh-gsoares">Luiz Henrique Soares</a> </p>
 
 
-## 3.5 Diagrama de Estados
+## 3.5 Diagrama de Estados Listening Quiz
 
 A Figura 5 detalha o ciclo de um quiz de escuta. O processo começa em "Preparing", onde o quiz é criado. Quando a faixa estiver pronta, o estado muda para "Playing" e o áudio é reproduzido. Em seguida, o usuário entra em "Answering" para escolher uma opção. Após submeter, o sistema transita para "Grading" para avaliar a resposta. O resultado é então exibido no estado "Review", finalizando o quiz.
 
@@ -107,7 +107,7 @@ A Figura 5 detalha o ciclo de um quiz de escuta. O processo começa em "Preparin
 <p align="center"><b>Autor:</b> <a href="https://github.com/MateuSansete">Mateus Bastos</a>, <a href="https://github.com/leozinlima">Leonardo de Melo Lima</a> e <a href="https://github.com/luizh-gsoares">Luiz Henrique Soares</a> </p>
 
 
-## 3.6 Diagrama de Estados
+## 3.6 Diagrama de Estados Spelling Bee
 
 A Figura 6 representa o fluxo do jogo de soletração. O fluxo começa no estado "Challenge", onde o sistema apresenta uma palavra para ser soletrada. O áudio da palavra é então reproduzido no estado "Listening". Em seguida, o usuário entra em "Typing" para digitar a palavra. Após submeter, o sistema entra em "Evaluating" para verificar se a palavra está correta. Por fim, o resultado é mostrado no estado "Result".
 
@@ -118,7 +118,7 @@ A Figura 6 representa o fluxo do jogo de soletração. O fluxo começa no estado
 <p align="center"><b>Autor:</b> <a href="https://github.com/MateuSansete">Mateus Bastos</a>, <a href="https://github.com/leozinlima">Leonardo de Melo Lima</a> e <a href="https://github.com/luizh-gsoares">Luiz Henrique Soares</a> </p>
 
 
-## 3.7 Diagrama de Estados
+## 3.7 Diagrama de Estados Dicionário
 
 A Figura 7 representa o fluxo de uso da funcionalidade de Dicionário. O processo começa no estado "Idle", aguardando a interação do usuário. A partir daí, o usuário pode escolher entre duas ações: buscar uma definição, entrando no estado "Searching", ou solicitar uma tradução, entrando em "Translating". Após a conclusão de qualquer uma dessas tarefas, o fluxo retorna ao estado "Idle", pronto para uma nova ação.
 
@@ -129,7 +129,7 @@ A Figura 7 representa o fluxo de uso da funcionalidade de Dicionário. O process
 <p align="center"><b>Autor:</b> <a href="https://github.com/MateuSansete">Mateus Bastos</a>, <a href="https://github.com/leozinlima">Leonardo de Melo Lima</a> e <a href="https://github.com/luizh-gsoares">Luiz Henrique Soares</a> </p>
 
 
-## 3.8 Diagrama de Estados
+## 3.8 Diagrama de Estados Personas
 
 A Figura 8 detalha o ciclo de vida da funcionalidade Personas. O fluxo se inicia no estado "Listing", onde as personas cadastradas são exibidas. Desse ponto, o usuário pode iniciar a "Edição" de uma persona, a "Criação" de uma nova ou "Anexar" uma persona a uma sessão de chat. Após qualquer uma dessas ações, o sistema retorna ao estado "Listing", atualizando a lista.
 
@@ -140,7 +140,7 @@ A Figura 8 detalha o ciclo de vida da funcionalidade Personas. O fluxo se inicia
 <p align="center"><b>Autor:</b> <a href="https://github.com/MateuSansete">Mateus Bastos</a>, <a href="https://github.com/leozinlima">Leonardo de Melo Lima</a> e <a href="https://github.com/luizh-gsoares">Luiz Henrique Soares</a> </p>
 
 
-## 3.9 Diagrama de Estados
+## 3.9 Diagrama de Estados Social Rooms
 
 A Figura 9 mostra o processo de interação nas salas sociais. O fluxo começa no estado "Listing", onde as salas disponíveis são exibidas. Quando o usuário entra em uma sala, o estado muda para "InRoom". Dentro da sala, há três ações possíveis: o usuário pode "Postar" uma mensagem, um moderador pode "Moderar" o conteúdo ou o usuário pode "Sair" da sala, finalizando o processo.
 
