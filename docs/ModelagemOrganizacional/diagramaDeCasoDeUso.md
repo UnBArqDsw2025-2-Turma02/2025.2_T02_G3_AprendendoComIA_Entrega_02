@@ -55,26 +55,25 @@ Os principais objetivos da utilização da técnica de casos de uso vão além d
 
 3.  **Gerenciar a Complexidade e Priorizar o Escopo:** Em sistemas grandes, a quantidade de requisitos pode ser esmagadora. Casos de uso permitem decompor o sistema em partes gerenciáveis. É possível priorizar os casos de uso mais críticos para o negócio e planejar entregas incrementais. Ivar Jacobson reforça esta ideia:
 
-
-
 ---
 
 ## Bibliografia
 
-- [Duolingo – Wikipedia](https://en.wikipedia.org/wiki/Duolingo)  
-- [Babbel – Site Oficial](https://www.babbel.com/)  
-- [ELSA Speak – Site Oficial](https://elsaspeak.com/en/)  
-- [Language in India – Comparative Study](https://www.languageinindia.com/oct2024/drsunandauseAIEnglishlearning1.pdf)  
-- [Sciedupress – Teaching with Apps](https://www.sciedupress.com/journal/index.php/jct/article/download/25589/16050)  
-- [Arxiv – Gamification Misuse](https://arxiv.org/abs/2203.16175)  
-- [SWEBOK – IEEE](https://www.computer.org/education/bodies-of-knowledge/software-engineering)  
-- [LGPD – Gov.br](https://www.gov.br/cidadania/pt-br/acesso-a-informacao/lgpd)  
-- [Sommerville – Engenharia de Software](https://www.pearson.com/en-us/subject-catalog/p/software-engineering/P200000003546/9780137035151)  
-- [Miro – Arquitetura G3](https://miro.com/)  
-- [Google Forms – Público Alvo](https://forms.gle/cB4qXso3j3tm2LVh6)
+> 1. WIKIPEDIA. [Duolingo](https://en.wikipedia.org/wiki/Duolingo). Acesso em: 21 set. 2025.
+> 2. BABBEL. [Site Oficial](https://www.babbel.com/). Acesso em: 21 set. 2025.
+> 3. ELSA. [ELSA Speak – Site Oficial](https://elsaspeak.com/en/). Acesso em: 21 set. 2025.
+> 4. LANGUAGE IN INDIA. [Comparative Study](https://www.languageinindia.com/oct2024/drsunandauseAIEnglishlearning1.pdf). Acesso em: 21 set. 2025.
+> 5. SCIEDUPRESS. [Teaching with Apps](https://www.sciedupress.com/journal/index.php/jct/article/download/25589/16050). Acesso em: 21 set. 2025.
+> 6. ARXIV. [Gamification Misuse](https://arxiv.org/abs/2203.16175). Acesso em: 21 set. 2025.
+> 7. IEEE. [SWEBOK](https://www.computer.org/education/bodies-of-knowledge/software-engineering). Acesso em: 21 set. 2025.
+> 8. GOV.BR. [LGPD](https://www.gov.br/cidadania/pt-br/acesso-a-informacao/lgpd). Acesso em: 21 set. 2025.
+> 9. SOMMERVILLE, Ian. [Engenharia de Software](https://www.pearson.com/en-us/subject-catalog/p/software-engineering/P200000003546/9780137035151). Acesso em: 21 set. 2025.
+> 10. MIRO. [Arquitetura G3](https://miro.com/). Acesso em: 21 set. 2025.
+> 11. GOOGLE FORMS. [Público Alvo](https://forms.gle/cB4qXso3j3tm2LVh6). Acesso em: 21 set. 2025.
 
 ---
 
+## Histórico de Versões
 
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | Incremento do Revisor |
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: | :-------------------: |

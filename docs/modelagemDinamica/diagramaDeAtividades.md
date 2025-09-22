@@ -134,11 +134,11 @@ Este diagrama (Figura 6) modela como um usuário navega pela plataforma para enc
 ## Bibliografia
 
 > 1. SOMMERVILLE, Ian. **Engenharia de Software**. 10. ed. São Paulo: Pearson Education do Brasil, 2019.
-> 2. APOSTILA UML. Unified Modeling Language – Linguagem de Modelagem Unificada em Português. Seção sobre diagrama de atividades. Disponibilizada pela professora. Acesso em: 14 setembro  2025.
-> 3. IBM. Diagramas de Atividades. Atualizado pela última vez: 02 mar. 2021. Disponível em: https://www.ibm.com/docs/pt-br/rational-soft-arch/9.7.0?topic=diagrams-activity. Acesso em: 14 setembro  2025.
-> 4. LUCIDCHART. O que é diagrama de atividades UML? Disponível em: https://www.lucidchart.com/pages/pt/o-que-e-diagrama-de-atividades-uml. Acesso em: 14 setembro  2025 2025.
-> 5. RICARDO BARCELAR, R. Engenharia de Software – Módulo 3: Modelagem de Sistemas Orientada a Objetos com UML. Disponibilizada pela professora. Acesso em: 14 setembro  2025 2025.
-> 6. UML DIAGRAMS. UML Activity Diagram Controls. Disponível em: https://www.uml-diagrams.org/activity-diagrams-controls.html. Acesso em: 14 setembro  2025 2025.
+> 2. APOSTILA UML. Unified Modeling Language – Linguagem de Modelagem Unificada em Português. Seção sobre diagrama de atividades. Disponibilizada pela professora. Acesso em: 14 set. 2025.
+> 3. IBM. Diagramas de Atividades. Acesso em: 14 set. 2025.
+> 4. LUCIDCHART. O que é diagrama de atividades UML?. Acesso em: 14 set. 2025.
+> 5. BARCELAR, Ricardo. Engenharia de Software – Módulo 3: Modelagem de Sistemas Orientada a Objetos com UML. Disponibilizada pela professora. Acesso em: 14 set. 2025.
+> 6. UML DIAGRAMS. UML Activity Diagram Controls. Acesso em: 14 set. 2025.
 
 ---
 

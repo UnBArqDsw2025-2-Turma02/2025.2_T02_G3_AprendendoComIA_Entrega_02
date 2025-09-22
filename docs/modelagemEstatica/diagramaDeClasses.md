@@ -173,20 +173,20 @@ Este artefato cumpre três objetivos:
 ---
 
 ## Bibliografia
-- [OMG — Unified Modeling Language (UML) Specification](https://www.omg.org/spec/UML/)  
-- [Martin Fowler — UML Distilled](https://martinfowler.com/books/uml.html)  
-- [IEEE — SWEBOK (Software Engineering Body of Knowledge)](https://www.computer.org/education/bodies-of-knowledge/software-engineering)  
-- [PlantUML — Class & Package Diagrams](https://plantuml.com/class-diagram)  
-- [Domain-Driven Design — Eric Evans (overview)](https://www.domainlanguage.com/ddd/)  
-- [Next.js — App Router & Route Handlers](https://nextjs.org/docs/app/building-your-application/routing/route-handlers)  
-- [MongoDB — Data Modeling](https://www.mongodb.com/docs/manual/core/data-modeling-introduction/)
+> 1. OMG. [Unified Modeling Language (UML) Specification](https://www.omg.org/spec/UML/). Acesso em: 21 set. 2025.
+> 2. FOWLER, Martin. [UML Distilled](https://martinfowler.com/books/uml.html). Acesso em: 21 set. 2025.
+> 3. IEEE. [SWEBOK (Software Engineering Body of Knowledge)](https://www.computer.org/education/bodies-of-knowledge/software-engineering). Acesso em: 21 set. 2025.
+> 4. PLANTUML. [Class & Package Diagrams](https://plantuml.com/class-diagram). Acesso em: 21 set. 2025.
+> 5. EVANS, Eric. [Domain-Driven Design (overview)](https://www.domainlanguage.com/ddd/). Acesso em: 21 set. 2025.
+> 6. NEXT.JS. [App Router & Route Handlers](https://nextjs.org/docs/app/building-your-application/routing/route-handlers). Acesso em: 21 set. 2025.
+> 7. MONGODB. [Data Modeling](https://www.mongodb.com/docs/manual/core/data-modeling-introduction/). Acesso em: 21 set. 2025.
 
 ---
 
 ## Histórico de Versões
 
-| Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão |
+| Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | Incremento do Revisor |
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
-| `1.0`  | Versão inicial (draw.io) com visão ampla | [Arthur Carvalho](https://github.com/arthurlleite) | 21/09/2025 |  |  |
-| `1.1`  | Reorganização por pacotes (PlantUML) e revisão de multiplicidades | [Arthur Carvalho](https://github.com/arthurlleite) | 21/09/2025 |  |  |
-| `1.2`  | Documento explicativo unificado (este arquivo) com guia de leitura e legenda | [Arthur Carvalho](https://github.com/arthurlleite) | 21/09/2025 |  |  |
+| `1.0`  | Versão inicial (draw.io) com visão ampla | Arthur Carvalho | 21/09/2025 |  | | |
+| `1.1`  | Reorganização por pacotes (PlantUML) e revisão de multiplicidades | Arthur Carvalho | 21/09/2025 |  | | |
+| `1.2`  | Documento explicativo unificado (este arquivo) com guia de leitura e legenda | Arthur Carvalho | 21/09/2025 |  | | |

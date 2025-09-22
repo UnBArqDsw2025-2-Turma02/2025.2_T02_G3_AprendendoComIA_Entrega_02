@@ -31,24 +31,20 @@ A elicitação do diagrama visa ilustrar a configuração física e de rede de s
 
 ## Bibliografia
 
-- [Duolingo – Wikipedia](https://en.wikipedia.org/wiki/Duolingo)  
-- [Babbel – Site Oficial](https://www.babbel.com/)  
-- [ELSA Speak – Site Oficial](https://elsaspeak.com/en/)  
-- [Language in India – Comparative Study](https://www.languageinindia.com/oct2024/drsunandauseAIEnglishlearning1.pdf)  
-- [Sciedupress – Teaching with Apps](https://www.sciedupress.com/journal/index.php/jct/article/download/25589/16050)  
-- [Arxiv – Gamification Misuse](https://arxiv.org/abs/2203.16175)  
-- [SWEBOK – IEEE](https://www.computer.org/education/bodies-of-knowledge/software-engineering)  
-- [LGPD – Gov.br](https://www.gov.br/cidadania/pt-br/acesso-a-informacao/lgpd)  
-- [Sommerville – Engenharia de Software](https://www.pearson.com/en-us/subject-catalog/p/software-engineering/P200000003546/9780137035151)  
-- [Miro – Arquitetura G3](https://miro.com/)  
-- [Google Forms – Público Alvo](https://forms.gle/cB4qXso3j3tm2LVh6)
-- FOWLER, M.; JOÃO TORTELLO. __UML essencial : um breve guia para a linguagem-padrão de modelagem de objetos__. Porto Alegre: Bookman, 2005.
-
-‌
+> 1. WIKIPEDIA. [Duolingo](https://en.wikipedia.org/wiki/Duolingo). Acesso em: 21 set. 2025.
+> 2. BABBEL. [Site Oficial](https://www.babbel.com/). Acesso em: 21 set. 2025.
+> 3. ELSA. [ELSA Speak – Site Oficial](https://elsaspeak.com/en/). Acesso em: 21 set. 2025.
+> 4. LANGUAGE IN INDIA. [Comparative Study](https://www.languageinindia.com/oct2024/drsunandauseAIEnglishlearning1.pdf). Acesso em: 21 set. 2025.
+> 5. SCIEDUPRESS. [Teaching with Apps](https://www.sciedupress.com/journal/index.php/jct/article/download/25589/16050). Acesso em: 21 set. 2025.
+> 6. ARXIV. [Gamification Misuse](https://arxiv.org/abs/2203.16175). Acesso em: 21 set. 2025.
+> 7. IEEE. [SWEBOK](https://www.computer.org/education/bodies-of-knowledge/software-engineering). Acesso em: 21 set. 2025.
+> 8. GOV.BR. [LGPD](https://www.gov.br/cidadania/pt-br/acesso-a-informacao/lgpd). Acesso em: 21 set. 2025.
+> 9. SOMMERVILLE, Ian. [Engenharia de Software](https://www.pearson.com/en-us/subject-catalog/p/software-engineering/P200000003546/9780137035151). Acesso em: 21 set. 2025.
+> 10. MIRO. [Arquitetura G3](https://miro.com/). Acesso em: 21 set. 2025.
+> 11. GOOGLE FORMS. [Público Alvo](https://forms.gle/cB4qXso3j3tm2LVh6). Acesso em: 21 set. 2025.
+> 12. FOWLER, M.; TORTELLO, J. **UML essencial: um breve guia para a linguagem-padrão de modelagem de objetos**. Porto Alegre: Bookman, 2005.
 
 ---
-
-## Histórico de Versões
 
 ## Histórico de Versões
 
@@ -56,4 +52,3 @@ A elicitação do diagrama visa ilustrar a configuração física e de rede de s
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: | :-------------------: |
 | `1.0`  | Modelagem inicial | [Felipe das Neves](https://github.com/FelipeFreire-gf) | 12/09/2025 | [Samuel Afonso da Silva Santos](https://github.com/SamuelAfonso) | 21/09/2025| Descrição de Técnica Utilizada e Objetivos, Revisão do Diagrama |
 | `1.1`  | Adição do Diagrama e Revisão dos Textos | [Letícia Monteiro](https://github.com/LeticiaMonteiroo) | 21/09/2025 | | | |
-
