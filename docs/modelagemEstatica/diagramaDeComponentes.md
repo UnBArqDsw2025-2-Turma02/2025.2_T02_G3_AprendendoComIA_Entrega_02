@@ -88,7 +88,7 @@ O diagrama a seguir (Figura 1) ilustra a organização dos principais módulos d
 
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | Incremento do Revisor |
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: | :-------------------: |
-| `1.0` | Modelagem inicial | [Felipe das Neves](https://github.com/FelipeFreire-gf) | 12/09/2025 | | | |
+| `1.0` | Modelagem inicial | [Felipe das Neves](https://github.com/FelipeFreire-gf),  [Gabriel Lima](https://github.com/gabriel-lima258) | 12/09/2025 | | | |
 | `1.1` | Correção da técnica utilizada e adição dos objetivos | [Felipe das Neves](https://github.com/FelipeFreire-gf) | 21/09/2025 | | | |
 | `1.2` | Adição da bibliografia | [Felipe das Neves](https://github.com/FelipeFreire-gf) | 21/09/2025 | | | |
-| `1.3` | Adição do diagrama de componentes | [Mateus Bastos](https://github.com/MateuSansete) | 21/09/2025 | | | |
+| `1.3` | Adição do diagrama de componentes | [Mateus Bastos](https://github.com/MateuSansete),  [Gabriel Lima](https://github.com/gabriel-lima258) | 21/09/2025 | | | |
