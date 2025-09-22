@@ -35,6 +35,20 @@ O objetivo deste diagrama é fornecer uma visão **clara e integrada do comporta
 
 ---
 
+## Legenda
+
+
+**Tabela 1 - Legenda do Diagrama de Estados**
+
+| Legenda |    Representação    |
+| :----: | :--------: |
+| Estado incial | ![Inicial](./assets/diagramaEstados/Leg-estadoIncialESTADOS.png) |
+| Estado final | ![Final](./assets/diagramaEstados/Leg-estadoFinalESTADOS.png) |
+| Processo intermediario de escolha | ![Intermediario](./assets/diagramaEstados/Leg-processoIntermediarioDeEscolhaESTADOS.png) |
+| Estado | ![Estado](./assets/diagramaEstados/Leg-estadoESTADOS.png) |
+
+---
+
 
 ## Bibliografia
 
