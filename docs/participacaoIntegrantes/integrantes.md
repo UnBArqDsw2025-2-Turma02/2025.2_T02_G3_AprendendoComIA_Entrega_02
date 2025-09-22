@@ -17,7 +17,7 @@ Este documento tem como objetivo registrar as principais contribuições de cada
 | [Leonardo de Melo Lima](https://github.com/leozinlima) | Modelagem do Diagrama de Componentes | Excelente | [Diagrama de Componentes](modelagemEstatica/diagramaDeComponentes.md) |
 | [Mateus Bastos](https://github.com/MateuSansete)| Modelagem do Diagrama de Componentes | Excelente | [Diagrama de Componentes](modelagemEstatica/diagramaDeComponentes.md) |
 | [Pedro Fonseca Cruz](https://github.com/pfc15) | | | |
-| [Samuel Afonso](https://github.com/SamuelAfonso) | Modelagem Diagrama de Comunicação, Implantação e Revisão do Diagrama de Casos de Uso| Excelente| [Diagrama de Comunicação](modelagemDinamica/diagramaDeComunicacao.md), [Diagrama de Implantação](modelagemEstatica/diagramaDeImplantacao.md), [Diagrama de Caso de Uso](ModelagemOrganizacional/diagramaDeCasoDeUso.md)|
+| [Samuel Afonso](https://github.com/SamuelAfonso) | Modelagem do Diagrama de Implementação| Excelente| [Diagrama de Implementação](modelagemEstatica/diagramaDeImplantacao.md)|
 | [Vitor Bessa](https://github.com/Bessazs) | | | |
 | [Luiz Henrique Soares ](https://github.com/luizh-gsoares) | Modelagem do Diagrama de Implementação| Excelente | [Diagrama de Implementação](../modelagemEstatica/diagramaDeImplantacao.md)|
 | [Letícia Monteiro ](https://github.com/leticiamonteiroo) | Modelagem do Diagrama de Implementação| Excelente | [Diagrama de Implementação](../modelagemEstatica/diagramaDeImplantacao.md)|
@@ -49,7 +49,7 @@ Este documento tem como objetivo registrar as principais contribuições de cada
 | [Leonardo de Melo Lima](https://github.com/leozinlima) | | | |
 | [Mateus Bastos](https://github.com/MateuSansete)| | | |
 | [Pedro Fonseca Cruz](https://github.com/pfc15) | | | |
-| [Samuel Afonso](https://github.com/SamuelAfonso) | | | |
+| [Samuel Afonso](https://github.com/SamuelAfonso) | Modelagem do Diagrama de Comunicação| Excelente| [Diagrama de Comunicação](../modelagemDinamica/diagramaDeComunicacao.md)|
 | [Vitor Bessa](https://github.com/Bessazs) | | | |
 | [Luiz Henrique Soares ](https://github.com/luizh-gsoares) | Modelagem do Diagrama de Estados| Excelente | [Diagrama de Estados](../modelagemDinamica/diagramaDeEstados.md) |
 | [Letícia Monteiro ](https://github.com/leticiamonteiroo) | Modelagem do Diagrama de Comunicação | Excelente | [Diagrama de Comunicação](../modelagemDinamica/diagramaDeComunicacao.md) |
@@ -81,7 +81,7 @@ Este documento tem como objetivo registrar as principais contribuições de cada
 | [Leonardo de Melo Lima](https://github.com/leozinlima) | | | |
 | [Mateus Bastos](https://github.com/MateuSansete)| | |  |
 | [Pedro Fonseca Cruz](https://github.com/pfc15) | | |  |
-| [Samuel Afonso](https://github.com/SamuelAfonso) | | | |
+| [Samuel Afonso](https://github.com/SamuelAfonso) | Revisão do Diagrama de Caso de Uso| Excelente| [Diagrama de Caso de Uso](ModelagemOrganizacional/diagramaDeCasoDeUso.md)|
 | [Vitor Bessa](https://github.com/Bessazs) | | | |
 | [Luiz Henrique Soares ](https://github.com/luizh-gsoares) | | | |
 | [Letícia Monteiro ](https://github.com/leticiamonteiroo) | | | |
