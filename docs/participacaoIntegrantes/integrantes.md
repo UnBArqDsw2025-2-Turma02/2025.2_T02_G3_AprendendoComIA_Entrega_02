@@ -48,7 +48,7 @@ Este documento tem como objetivo registrar as principais contribuições de cada
 | [Emivalto Da Costa](https://github.com/EmivaltoJrr)| | | |
 | [Felipe das Neves](https://github.com/FelipeFreire-gf) | Modelagem do Diagrama de Atividades| Excelente | [Diagrama de Atividades](modelagemDinamica/diagramaDeAtividades.md) |
 | [Gabriel Lima](https://github.com/gabriel-lima258) | Modelagem do Diagrama de Atividades | Excelente | [Diagrama de Atividades](modelagemDinamica/diagramaDeAtividades.md) |
-| [Leonardo de Melo Lima](https://github.com/leozinlima) | | | |
+| [Leonardo de Melo Lima](https://github.com/leozinlima) | Modelagem do Diagrama de Estados | Excelente | [Diagrama de Estados](modelagemDinamica/diagramaDeEstados.md) |
 | [Mateus Bastos](https://github.com/MateuSansete)| Modelagem do Diagrama de Estados | Excelente | [Diagrama de Estados](modelagemDinamica/diagramaDeEstados.md) |
 | [Pedro Fonseca Cruz](https://github.com/pfc15) | | | |
 | [Samuel Afonso](https://github.com/SamuelAfonso) | Modelagem do Diagrama de Comunicação| Excelente| [Diagrama de Comunicação](../modelagemDinamica/diagramaDeComunicacao.md)|
@@ -82,7 +82,7 @@ Este documento tem como objetivo registrar as principais contribuições de cada
 | [Emivalto Da Costa](https://github.com/EmivaltoJrr)| | | |
 | [Felipe das Neves](https://github.com/FelipeFreire-gf) | Modelagem do Diagrama de Pacotes | Excelente | [Diagrama de Pacotes](ModelagemOrganizacional/diagramaDePacotes.md) |
 | [Gabriel Lima](https://github.com/gabriel-lima258) | Modelagem do Diagrama de Pacotes | Excelente | [Diagrama de Pacotes](ModelagemOrganizacional/diagramaDePacotes.md) |
-| [Leonardo de Melo Lima](https://github.com/leozinlima) | | | |
+| [Leonardo de Melo Lima](https://github.com/leozinlima) | Modelagem do Diagrama de Casos de Uso | Excelente | [Diagrama de Casos de Uso](ModelagemOrganizacional/diagramaDeCasoDeUso.md) |
 | [Mateus Bastos](https://github.com/MateuSansete)| Modelagem do Diagrama de Casos de Uso | Boa | [Diagrama de Casos de Uso](ModelagemOrganizacional/diagramaDeCasoDeUso.md) |
 | [Pedro Fonseca Cruz](https://github.com/pfc15) | | |  |
 | [Samuel Afonso](https://github.com/SamuelAfonso) | Revisão do Diagrama de Caso de Uso| Excelente| [Diagrama de Caso de Uso](ModelagemOrganizacional/diagramaDeCasoDeUso.md)|
