@@ -11,6 +11,8 @@
 - [Rótulos de Status](#rótulos-de-status)
 - [Público x Privado](#público-x-privado)
 - [Observações Arquiteturais](#observações-arquiteturais)
+- [Detalhamento Técnico dos Componentes](#detalhamento-técnico-dos-componentes)
+- [Interações Assíncronas e em Tempo Real](#interações-assíncronas-e-em-tempo-real)
 - [Histórico de Versões](#histórico-de-versões)
 
 ---
@@ -116,6 +118,20 @@ O diagrama de sequência consolida, em uma linha do tempo única, as interaçõe
 - **Assíncrono** previsto para correções mais pesadas e eventos de gamificação (quando necessário).
 ---
 
+## Detalhamento Técnico dos Componentes
+- **Frontend (Cliente)**: Construído com Next.js, responsável pela renderização das interfaces de usuário (Views/Pages) e componentes de UI (UI Components). Utiliza `useState`, `useChat`, etc., para gerenciamento de estado e hooks. A comunicação com o backend é feita principalmente através de chamadas HTTP.
+- **Backend (Servidor)**: Executando em um ambiente Next.js, contém as rotas da API (`/api/`), a lógica de negócios e o acesso à base de dados. Utiliza um conector de banco de dados para interagir com o MongoDB e possui definições de tipos e variáveis de ambiente.
+- **Banco de Dados (Ext)**: MongoDB é utilizado para persistir os dados da aplicação, como informações de usuários, coleções, histórico, etc.
+- **Serviço de IA (Ext)**: Um serviço externo, como o Hugging Face, é utilizado para processar as interações de inteligência artificial. A comunicação é feita via chamadas de API.
+- **Ferramentas de Suporte e Qualidade**: Inclui scripts, seeders e testes (como `tests/_backend_test.py`) para garantir a qualidade e a integridade do código.
+
+---
+
+## Interações Assíncronas e em Tempo Real
+- **WebSocket (WSS)**: Para funcionalidades que exigem comunicação em tempo real, como o chat interativo, é utilizada uma conexão WebSocket segura entre o cliente (Navegador Web) e o servidor de aplicação. Isso permite uma troca de mensagens bidirecional e de baixa latência.
+
+---
+
 ## Bibliografia
 
 - [Duolingo – Wikipedia](https://en.wikipedia.org/wiki/Duolingo)  
@@ -138,3 +154,4 @@ O diagrama de sequência consolida, em uma linha do tempo única, as interaçõe
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão |
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
 | `1.0`  | Primeira versão consolidada do diagrama e legenda | [Arthur Carvalho](https://github.com/arthurlleite) | 21/09/2025 | — | — |
+| `1.1`  | Adição de Detalhamento Técnico e Interações Assíncronas | [Emivalto Da Costa](https://github.com/EmivaltoJrr) | 21/09/2025 | — | — |
