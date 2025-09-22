@@ -152,25 +152,15 @@ A Figura 9 mostra o fluxo de interação com as salas sociais. O processo começ
 <p align="center"><b>Autor(es):</b> <a href="https://github.com/MateuSansete">Mateus Bastos</a>, <a href="https://github.com/leozinlima">Leonardo de Melo Lima</a> e <a href="https://github.com/luizh-gsoares">Luiz Henrique Soares</a> </p>
 
 
-
-
-
-
-
-
-
-
-
-
 ---
 
 ## Bibliografia
 
-- [OMG UML 2.5.1 Specification – Object Management Group](https://www.omg.org/spec/UML/2.5.1/)  
-- [UML State Machine Diagrams – UML Diagrams.org](https://www.uml-diagrams.org/state-machine-diagrams.html)  
-- [The Unified Modeling Language User Guide – Addison-Wesley](https://www.amazon.com/Unified-Modeling-Language-User-Guide/dp/0321267974)  
-- [UML Essencial: Um breve guia para a linguagem padrão de modelagem de objetos – Bookman](https://www.amazon.com.br/UML-Essencial-Breve-Linguagem-Modelagem/dp/8577800223)  
-- [State Machine Diagram Tutorial – Visual Paradigm](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-state-machine-diagram/)
+> 1. OMG. [UML 2.5.1 Specification](https://www.omg.org/spec/UML/2.5.1/). Acesso em: 21 set. 2025.
+> 2. UML DIAGRAMS. [UML State Machine Diagrams](https://www.uml-diagrams.org/state-machine-diagrams.html). Acesso em: 21 set. 2025.
+> 3. BOOCH, G.; RUMBAUGH, J.; JACOBSON, I. **The Unified Modeling Language User Guide**. 2. ed. Addison-Wesley, 2005.
+> 4. FOWLER, M. **UML Essencial: Um breve guia para a linguagem padrão de modelagem de objetos**. 3. ed. Bookman, 2005.
+> 5. VISUAL PARADIGM. [State Machine Diagram Tutorial](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-state-machine-diagram/). Acesso em: 21 set. 2025.
 
 ---
 

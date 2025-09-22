@@ -13,7 +13,7 @@
     - [2.3. Diagrama de Implantação ](modelagemEstatica/diagramaDeImplantacao.md)
 
 - **Modelagem Dinâmica**
-  - [3. Metodologia](odelagemDinamica/metodologia.md)
+  - [3. Metodologia](modelagemDinamica/metodologia.md)
     - [3.1. Diagrama de Sequência](modelagemDinamica/diagramaDeSequencia.md)
     - [3.2. Diagrama de Atividades](modelagemDinamica/diagramaDeAtividades.md)
     - [3.3. Diagrama de Comunicação/Colaboração](modelagemDinamica/diagramaDeComunicacao.md)
