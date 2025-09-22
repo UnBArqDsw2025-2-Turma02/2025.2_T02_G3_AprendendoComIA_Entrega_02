@@ -59,7 +59,7 @@ A Figura 1 representa o estado geral do sistema, dividido entre estados "Não au
 
 ![Diagrama de Estados](../modelagemDinamica/assets/p1.drawio.png)
 
-<p align="center"><b>Autor:</b> <a href="https://github.com/MateuSansete">Mateus Bastos</a>, <a href="https://github.com/leozinlima">Leonardo de Melo Lima</a> e <a href="https://github.com/luizh-gsoares">Luiz Henrique Soares</a> </p>
+<p align="center"><b>Autor(es):</b> <a href="https://github.com/MateuSansete">Mateus Bastos</a>, <a href="https://github.com/leozinlima">Leonardo de Melo Lima</a> e <a href="https://github.com/luizh-gsoares">Luiz Henrique Soares</a> </p>
 
 
 ## 3.2 Diagrama de Estados Chat
@@ -71,7 +71,7 @@ A Figura 2 descreve o ciclo de vida da funcionalidade de Chat. O processo começ
 
 ![Diagrama de Estados](../modelagemDinamica/assets/p2.drawio.png)
 
-<p align="center"><b>Autor:</b> <a href="https://github.com/MateuSansete">Mateus Bastos</a>, <a href="https://github.com/leozinlima">Leonardo de Melo Lima</a> e <a href="https://github.com/luizh-gsoares">Luiz Henrique Soares</a> </p>
+<p align="center"><b>Autor(es):</b> <a href="https://github.com/MateuSansete">Mateus Bastos</a>, <a href="https://github.com/leozinlima">Leonardo de Melo Lima</a> e <a href="https://github.com/luizh-gsoares">Luiz Henrique Soares</a> </p>
 
 
 ## 3.3 Diagrama de Estados Tarefas + Correção
@@ -82,7 +82,7 @@ A Figura 3 detalha o processo de Tarefas + Correção. O fluxo começa no estado
 
 ![Diagrama de Estados](../modelagemDinamica/assets/p3.drawio.png)
 
-<p align="center"><b>Autor:</b> <a href="https://github.com/MateuSansete">Mateus Bastos</a>, <a href="https://github.com/leozinlima">Leonardo de Melo Lima</a> e <a href="https://github.com/luizh-gsoares">Luiz Henrique Soares</a> </p>
+<p align="center"><b>Autor(es):</b> <a href="https://github.com/MateuSansete">Mateus Bastos</a>, <a href="https://github.com/leozinlima">Leonardo de Melo Lima</a> e <a href="https://github.com/luizh-gsoares">Luiz Henrique Soares</a> </p>
 
 
 ## 3.4 Diagrama de Estados Cards
@@ -93,7 +93,7 @@ A Figura 4 mostra o processo de estudo com cartões. O fluxo inicia no estado "L
 
 ![Diagrama de Estados](../modelagemDinamica/assets/p4.drawio.png)
 
-<p align="center"><b>Autor:</b> <a href="https://github.com/MateuSansete">Mateus Bastos</a>, <a href="https://github.com/leozinlima">Leonardo de Melo Lima</a> e <a href="https://github.com/luizh-gsoares">Luiz Henrique Soares</a> </p>
+<p align="center"><b>Autor(es):</b> <a href="https://github.com/MateuSansete">Mateus Bastos</a>, <a href="https://github.com/leozinlima">Leonardo de Melo Lima</a> e <a href="https://github.com/luizh-gsoares">Luiz Henrique Soares</a> </p>
 
 
 ## 3.5 Diagrama de Estados Listening Quiz
@@ -104,7 +104,7 @@ A Figura 5 detalha o ciclo de um quiz de escuta. O processo começa em "Preparin
 
 ![Diagrama de Estados](../modelagemDinamica/assets/p5.drawio.png)
 
-<p align="center"><b>Autor:</b> <a href="https://github.com/MateuSansete">Mateus Bastos</a>, <a href="https://github.com/leozinlima">Leonardo de Melo Lima</a> e <a href="https://github.com/luizh-gsoares">Luiz Henrique Soares</a> </p>
+<p align="center"><b>Autor(es):</b> <a href="https://github.com/MateuSansete">Mateus Bastos</a>, <a href="https://github.com/leozinlima">Leonardo de Melo Lima</a> e <a href="https://github.com/luizh-gsoares">Luiz Henrique Soares</a> </p>
 
 
 ## 3.6 Diagrama de Estados Spelling Bee
@@ -115,40 +115,41 @@ A Figura 6 representa o fluxo do jogo de soletração. O fluxo começa no estado
 
 ![Diagrama de Estados](../modelagemDinamica/assets/p6.drawio.png)
 
-<p align="center"><b>Autor:</b> <a href="https://github.com/MateuSansete">Mateus Bastos</a>, <a href="https://github.com/leozinlima">Leonardo de Melo Lima</a> e <a href="https://github.com/luizh-gsoares">Luiz Henrique Soares</a> </p>
+<p align="center"><b>Autor(es):</b> <a href="https://github.com/MateuSansete">Mateus Bastos</a>, <a href="https://github.com/leozinlima">Leonardo de Melo Lima</a> e <a href="https://github.com/luizh-gsoares">Luiz Henrique Soares</a> </p>
 
 
 ## 3.7 Diagrama de Estados Dicionário
 
-A Figura 7 representa o fluxo de uso da funcionalidade de Dicionário. O processo começa no estado "Idle", aguardando a interação do usuário. A partir daí, o usuário pode escolher entre duas ações: buscar uma definição, entrando no estado "Searching", ou solicitar uma tradução, entrando em "Translating". Após a conclusão de qualquer uma dessas tarefas, o fluxo retorna ao estado "Idle", pronto para uma nova ação.
+A Figura 7 descreve o fluxo de estados da funcionalidade Dicionário. O processo inicia no estado Idle, onde o sistema aguarda a interação do usuário. A partir daí, o fluxo pode transitar para Searching (para buscar uma definição) ou para Translating (para traduzir um texto). Após a conclusão de qualquer uma dessas tarefas, o sistema retorna ao estado Idle, pronto para a próxima ação.
 
 <p align="center"><b>Figura 7:</b> Diagrama de Estados da aplicação.</p>
 
-![Diagrama de Estados](../modelagemDinamica/assets/p7.drawio.png)
+![Diagrama de Estados](../modelagemDinamica/assets/p8.drawio.png)
 
-<p align="center"><b>Autor:</b> <a href="https://github.com/MateuSansete">Mateus Bastos</a>, <a href="https://github.com/leozinlima">Leonardo de Melo Lima</a> e <a href="https://github.com/luizh-gsoares">Luiz Henrique Soares</a> </p>
+
+<p align="center"><b>Autor(es):</b> <a href="https://github.com/MateuSansete">Mateus Bastos</a>, <a href="https://github.com/leozinlima">Leonardo de Melo Lima</a> e <a href="https://github.com/luizh-gsoares">Luiz Henrique Soares</a> </p>
 
 
 ## 3.8 Diagrama de Estados Personas
 
-A Figura 8 detalha o ciclo de vida da funcionalidade Personas. O fluxo se inicia no estado "Listing", onde as personas cadastradas são exibidas. Desse ponto, o usuário pode iniciar a "Edição" de uma persona, a "Criação" de uma nova ou "Anexar" uma persona a uma sessão de chat. Após qualquer uma dessas ações, o sistema retorna ao estado "Listing", atualizando a lista.
+A Figura 8 detalha o fluxo da funcionalidade Personas. O processo se inicia em Listing, onde a lista de personas é exibida. Desse ponto, o usuário pode criar uma nova persona em Creating, editar uma existente em Editing ou anexar uma persona a uma sessão de chat em Attaching. Após a conclusão de qualquer uma dessas ações, o sistema retorna ao estado Listing, atualizando a lista.
 
 <p align="center"><b>Figura 8:</b> Diagrama de Estados da aplicação.</p>
 
-![Diagrama de Estados](../modelagemDinamica/assets/p8.drawio.png)
+![Diagrama de Estados](../modelagemDinamica/assets/p9.drawio.png)
 
-<p align="center"><b>Autor:</b> <a href="https://github.com/MateuSansete">Mateus Bastos</a>, <a href="https://github.com/leozinlima">Leonardo de Melo Lima</a> e <a href="https://github.com/luizh-gsoares">Luiz Henrique Soares</a> </p>
+<p align="center"><b>Autor(es):</b> <a href="https://github.com/MateuSansete">Mateus Bastos</a>, <a href="https://github.com/leozinlima">Leonardo de Melo Lima</a> e <a href="https://github.com/luizh-gsoares">Luiz Henrique Soares</a> </p>
 
 
 ## 3.9 Diagrama de Estados Social Rooms
 
-A Figura 9 mostra o processo de interação nas salas sociais. O fluxo começa no estado "Listing", onde as salas disponíveis são exibidas. Quando o usuário entra em uma sala, o estado muda para "InRoom". Dentro da sala, há três ações possíveis: o usuário pode "Postar" uma mensagem, um moderador pode "Moderar" o conteúdo ou o usuário pode "Sair" da sala, finalizando o processo.
+A Figura 9 mostra o fluxo de interação com as salas sociais. O processo começa em Listing, onde as salas disponíveis são exibidas. Ao entrar em uma sala, o estado muda para InRoom. Dentro da sala, o usuário pode Postar uma mensagem, um moderador pode Moderar o conteúdo ou o usuário pode Sair da sala, finalizando o processo.
 
 <p align="center"><b>Figura 9:</b> Diagrama de Estados da aplicação.</p>
 
-![Diagrama de Estados](../modelagemDinamica/assets/p9.drawio.png)
+![Diagrama de Estados](../modelagemDinamica/assets/p7.drawio.png)
 
-<p align="center"><b>Autor:</b> <a href="https://github.com/MateuSansete">Mateus Bastos</a>, <a href="https://github.com/leozinlima">Leonardo de Melo Lima</a> e <a href="https://github.com/luizh-gsoares">Luiz Henrique Soares</a> </p>
+<p align="center"><b>Autor(es):</b> <a href="https://github.com/MateuSansete">Mateus Bastos</a>, <a href="https://github.com/leozinlima">Leonardo de Melo Lima</a> e <a href="https://github.com/luizh-gsoares">Luiz Henrique Soares</a> </p>
 
 
 
