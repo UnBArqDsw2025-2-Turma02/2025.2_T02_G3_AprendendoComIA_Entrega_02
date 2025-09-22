@@ -187,6 +187,6 @@ Este artefato cumpre três objetivos:
 
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão |
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
-| `1.0`  | Versão inicial (draw.io) com visão ampla | [arthurlleite](https://github.com/arthurlleite) | 21/09/2025 |  |  |
-| `1.1`  | Reorganização por pacotes (PlantUML) e revisão de multiplicidades | [arthurlleite](https://github.com/arthurlleite) | 21/09/2025 |  |  |
-| `1.2`  | Documento explicativo unificado (este arquivo) com guia de leitura e legenda | [arthurlleite](https://github.com/arthurlleite) | 21/09/2025 |  |  |
+| `1.0`  | Versão inicial (draw.io) com visão ampla | [Arthur Carvalho](https://github.com/arthurlleite) | 21/09/2025 |  |  |
+| `1.1`  | Reorganização por pacotes (PlantUML) e revisão de multiplicidades | [Arthur Carvalho](https://github.com/arthurlleite) | 21/09/2025 |  |  |
+| `1.2`  | Documento explicativo unificado (este arquivo) com guia de leitura e legenda | [Arthur Carvalho](https://github.com/arthurlleite) | 21/09/2025 |  |  |
