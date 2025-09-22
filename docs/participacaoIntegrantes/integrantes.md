@@ -20,7 +20,7 @@ Este documento tem como objetivo registrar as principais contribuições de cada
 | [Samuel Afonso](https://github.com/SamuelAfonso) | Modelagem Diagrama de Comunicação, Implantação e Revisão do Diagrama de Casos de Uso| Excelente| [Diagrama de Comunicação](modelagemDinamica/diagramaDeComunicacao.md), [Diagrama de Implantação](modelagemEstatica/diagramaDeImplantacao.md), [Diagrama de Caso de Uso](ModelagemOrganizacional/diagramaDeCasoDeUso.md)|
 | [Vitor Bessa](https://github.com/Bessazs) | | | |
 | [Luiz Henrique Soares ](https://github.com/luizh-gsoares) | | | |
-| [Letícia Monteiro ](https://github.com/leticiamonteiroo) | | | |
+| [Letícia Monteiro ](https://github.com/leticiamonteiroo) | [Diagrama de Implementação](modelagemEstatica/diagramaDeImplementacao.md)| | |
 
 <div align="center"> 
 <p>Autores:
