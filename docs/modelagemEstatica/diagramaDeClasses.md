@@ -39,7 +39,7 @@ Este artefato cumpre três objetivos:
 ## Versão 1 (draw.io) — visão ampla inicial
 > Arquivo: **Diagrama de Classes.drawio.png**
 
-![Versão 1 — draw.io](https://github.com/UnBArqDsw2025-2-Turma02/2025.2_T02_G3_AprendendoComIA_Entrega_02/blob/main/docs/assets/Diagrama%20de%20Classes.drawio.png)
+![Versão 1 — draw.io](https://github.com/UnBArqDsw2025-2-Turma02/2025.2_T02_G3_AprendendoComIA_Entrega_02/blob/ab90e55f210327e9563f59dfa7a73e275974b300/docs/assets/Diagrama%20de%20Classes.drawio.png?raw=true)
 
 <font size="2"><p style="text-align: center">Fonte: [Arthur Carvalho](https://github.com/arthurlleite),  2025.</p></font>
 
@@ -58,7 +58,7 @@ Este artefato cumpre três objetivos:
 ## Versão 2 (PlantUML) — visão por camadas
 > Arquivo: **Diagrama de Classespt2.png**
 
-![Versão 2 — PlantUML](https://github.com/UnBArqDsw2025-2-Turma02/2025.2_T02_G3_AprendendoComIA_Entrega_02/blob/main/docs/assets/Diagrama%20de%20Classespt2.png)
+![Versão 2 — PlantUML](https://github.com/UnBArqDsw2025-2-Turma02/2025.2_T02_G3_AprendendoComIA_Entrega_02/blob/main/docs/assets/Diagrama%20de%20Classespt2.png?raw=true)
 
 <font size="2"><p style="text-align: center">Fonte: [Arthur Carvalho](https://github.com/arthurlleite),  2025.</p></font>
 
