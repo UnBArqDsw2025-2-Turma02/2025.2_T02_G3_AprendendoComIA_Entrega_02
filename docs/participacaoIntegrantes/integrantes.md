@@ -11,7 +11,7 @@ Este documento tem como objetivo registrar as principais contribuições de cada
 | Nome do Membro | Contribuição | Significância da Contribuição para o Projeto | Comprobatórios Claros (com link) |
 |----------------|--------------|----------------------------------------------|-----------------------------------|
 | [Arthur Carvalho Leite](https://github.com/arthurlleite) | Modelagem do Diagrama de Classes | Excelente | [Diagrama de Classes](modelagemEstatica/diagramaDeClasses.md) |
-| [Emivalto Da Costa](https://github.com/EmivaltoJrr)| Diagrama de Componentes | Excelente | [Diagrama de Componentes](modelagemEstatica/diagramaDeComponentes.md) |
+| [Emivalto Da Costa](https://github.com/EmivaltoJrr)| Modelagem do Diagrama de Classes | Excelente | [Diagrama de Classes](modelagemEstatica/diagramaDeClasses.md) |
 | [Felipe das Neves](https://github.com/FelipeFreire-gf) | Modelagem do Diagrama de Componentes | Excelente | [Diagrama de Componentes](modelagemEstatica/diagramaDeComponentes.md) |
 | [Gabriel Lima](https://github.com/gabriel-lima258) | Modelagem do Diagrama de Componentes | Excelente | [Diagrama de Componentes](modelagemEstatica/diagramaDeComponentes.md) |
 | [Leonardo de Melo Lima](https://github.com/leozinlima) | Modelagem do Diagrama de Componentes | Excelente | [Diagrama de Componentes](modelagemEstatica/diagramaDeComponentes.md) |
@@ -45,7 +45,7 @@ Este documento tem como objetivo registrar as principais contribuições de cada
 | Nome do Membro | Contribuição | Significância da Contribuição para o Projeto | Comprobatórios Claros (com link) |
 |----------------|--------------|----------------------------------------------|-----------------------------------|
 | [Arthur Carvalho Leite](https://github.com/arthurlleite) | Modelagem do Diagrama de Sequência | Excelente | [Diagrama de Sequência](modelagemDinamica/diagramaDeSequencia.md) |
-| [Emivalto Da Costa](https://github.com/EmivaltoJrr)| Ajustes no Diagrama de Sequência | boa |[Diagrama de Sequência](../modelagemDinamica/diagramaDeSequencia.md) |
+| [Emivalto Da Costa](https://github.com/EmivaltoJrr)| Ajustes no Diagrama de Sequência | Boa |[Diagrama de Sequência](../modelagemDinamica/diagramaDeSequencia.md) |
 | [Felipe das Neves](https://github.com/FelipeFreire-gf) | Modelagem do Diagrama de Atividades| Excelente | [Diagrama de Atividades](modelagemDinamica/diagramaDeAtividades.md) |
 | [Gabriel Lima](https://github.com/gabriel-lima258) | Modelagem do Diagrama de Atividades | Excelente | [Diagrama de Atividades](modelagemDinamica/diagramaDeAtividades.md) |
 | [Leonardo de Melo Lima](https://github.com/leozinlima) | Modelagem do Diagrama de Estados | Excelente | [Diagrama de Estados](modelagemDinamica/diagramaDeEstados.md) |
@@ -79,11 +79,11 @@ Este documento tem como objetivo registrar as principais contribuições de cada
 | Nome do Membro | Contribuição | Significância da Contribuição para o Projeto | Comprobatórios Claros (com link) |
 |----------------|--------------|----------------------------------------------|-----------------------------------|
 | [Arthur Carvalho Leite](https://github.com/arthurlleite) | Modelagem do Diagrama de Casos de Uso | Excelente |  [Diagrama de Casos de Uso](ModelagemOrganizacional/diagramaDeCasoDeUso.md) |
-| [Emivalto Da Costa](https://github.com/EmivaltoJrr)| Modelagem do Diagrama de Pacotes | Boa | [Diagrama de Pacotes](ModelagemOrganizacional/diagramaDePacotes.md) |
+| [Emivalto Da Costa](https://github.com/EmivaltoJrr)|  |  |  |
 | [Felipe das Neves](https://github.com/FelipeFreire-gf) | Modelagem do Diagrama de Pacotes | Excelente | [Diagrama de Pacotes](ModelagemOrganizacional/diagramaDePacotes.md) |
 | [Gabriel Lima](https://github.com/gabriel-lima258) | Modelagem do Diagrama de Pacotes | Excelente | [Diagrama de Pacotes](ModelagemOrganizacional/diagramaDePacotes.md) |
 | [Leonardo de Melo Lima](https://github.com/leozinlima) | Modelagem do Diagrama de Casos de Uso | Excelente | [Diagrama de Casos de Uso](ModelagemOrganizacional/diagramaDeCasoDeUso.md) |
-| [Mateus Bastos](https://github.com/MateuSansete)| Modelagem do Diagrama de Casos de Uso | Boa | [Diagrama de Casos de Uso](ModelagemOrganizacional/diagramaDeCasoDeUso.md) |
+| [Mateus Bastos](https://github.com/MateuSansete)| Modelagem do Diagrama de Casos de Uso | Excelente | [Diagrama de Casos de Uso](ModelagemOrganizacional/diagramaDeCasoDeUso.md) |
 | [Pedro Fonseca Cruz](https://github.com/pfc15) | | |  |
 | [Samuel Afonso](https://github.com/SamuelAfonso) | Revisão do Diagrama de Caso de Uso| Excelente| [Diagrama de Caso de Uso](ModelagemOrganizacional/diagramaDeCasoDeUso.md)|
 | [Vitor Bessa](https://github.com/Bessazs) | | | |
