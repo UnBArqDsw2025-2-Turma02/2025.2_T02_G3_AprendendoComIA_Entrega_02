@@ -30,7 +30,7 @@
 - **Iniciativas Extras**
   - [6.1. Organização da Equipe ](iniciativasExtras/extras.md)
 
-  - **Atas**
+- **Atas**
   - [Ata 01](atas/ata1.md)
   - [Ata 02](atas/ata2.md)
   - [Ata 03](atas/ata3.md)
