@@ -36,6 +36,8 @@
   - [Ata 03](atas/ata3.md)
   - [Ata 04](atas/ata4.md)
   - [Ata 05](atas/ata5.md)
+  - [Ata 06](atas/ata6.md)
+
 
 
 
