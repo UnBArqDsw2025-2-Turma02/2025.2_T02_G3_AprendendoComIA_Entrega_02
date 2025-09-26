@@ -77,6 +77,6 @@ Os principais objetivos da utilização da técnica de casos de uso vão além d
 
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | Incremento do Revisor |
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: | :-------------------: |
-| `1.0`  | Modelagem inicial | [Felipe das Neves](https://github.com/FelipeFreire-gf) | 12/09/2025 | [Samuel Afonso da Silva Santos](https://github.com/SamuelAfonso) | 21/09/2025| Revisão do Diagrama |
+| `1.0`  | Modelagem inicial | [Felipe das Neves](https://github.com/FelipeFreire-gf), [Leonardo de Melo Lima](https://github.com/leozinlima) | 12/09/2025 | [Samuel Afonso da Silva Santos](https://github.com/SamuelAfonso) | 21/09/2025| Revisão do Diagrama |
 | `1.1`  | Adicionando Texto e as versãoes do Artefato | [Letícia Monteiro](https://github.com/LeticiaMonteiroo) | 21/09/2025 | [Arthur Carvalho](https://github.com/arthurlleite)  | 21/09/2025 | Revisado o texto feito e validação aceita |
 | `1.2`  | Adicionando mais algumas explicações e correção de algumas partes do diagrama como a gamificação e melhoria nos significados do Artefato | [Arthur Carvalho](https://github.com/arthurlleite) | 21/09/2025 |   |  |  |
