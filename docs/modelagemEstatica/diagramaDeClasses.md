@@ -39,9 +39,16 @@ Este artefato cumpre três objetivos:
 ## Versão 1 (draw.io) — visão ampla inicial
 > Arquivo: **Diagrama de Classes.drawio.png**
 
-![Versão 1 — draw.io](https://github.com/UnBArqDsw2025-2-Turma02/2025.2_T02_G3_AprendendoComIA_Entrega_02/blob/ab90e55f210327e9563f59dfa7a73e275974b300/docs/assets/Diagrama%20de%20Classes.drawio.png?raw=true)
+<iframe
+  src="https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Diagrama%20de%20Classes&dark=auto&page-id=X8uOu29be-GmyvvFnBEE#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1Iv_aS-t2FRCyp_9mMJKEHYqWdCyV68UU%26export%3Ddownload"
+  width="100%"
+  height="700"
+  style="border:0"
+  loading="lazy"
+  allowfullscreen
+></iframe>
 
-<font size="2"><p style="text-align: center">Fonte: [Arthur Carvalho](https://github.com/arthurlleite),  2025.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Arthur Carvalho](https://github.com/arthurlleite), [Leonardo de Melo Lima](https://github.com/leozinlima)</p></font>
 
 **Intenção:** consolidar *todo o universo* do sistema (domínio + arquitetura) em uma única visão.  
 **Vantagens**
